@@ -1,0 +1,4942 @@
+[
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 24.0,
+    "Total": 30.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 12.0,
+    "Total-After-Comm": 288.0,
+    "Total": 300.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 1.2,
+    "Total-After-Comm": 28.8,
+    "Total": 30.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 2.8,
+    "Total-After-Comm": 77.2,
+    "Total": 80.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 116.0,
+    "Total": 120.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 10.0,
+    "Total-After-Comm": 240.0,
+    "Total": 250.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 0.75,
+    "Total-After-Comm": 24.25,
+    "Total": 25.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 8.49,
+    "count": 96,
+    "COMMISSION (per row avg)": 1.34,
+    "Total-Comm": 129.08,
+    "Total-After-Comm": 685.92,
+    "Total": 815.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 10.5,
+    "Total-After-Comm": 199.5,
+    "Total": 210.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "Package Sales 150GB Libyana NET+",
+    "Total Amount (per row avg)": 100.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 5.0,
+    "Total-Comm": 5.0,
+    "Total-After-Comm": 95.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 21,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 31.5,
+    "Total-After-Comm": 598.5,
+    "Total": 630.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2.5,
+    "Total-After-Comm": 47.5,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 3.0,
+    "Total-After-Comm": 67.0,
+    "Total": 70.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "Package Sales Qassitha 10GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "Package Sales Qassitha 15GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 32,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "ALBADEEL",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 5.0,
+    "count": 26,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 13.0,
+    "Total-After-Comm": 117.0,
+    "Total": 130.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 1412,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 2118.0,
+    "Total-After-Comm": 4942.0,
+    "Total": 7060.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 96.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 45,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 18.0,
+    "Total-After-Comm": 432.0,
+    "Total": 450.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 10,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 9.5,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 11,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 7.7,
+    "Total-After-Comm": 212.3,
+    "Total": 220.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.84,
+    "Total-After-Comm": 23.16,
+    "Total": 24.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 35,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 35.0,
+    "Total-After-Comm": 1015.0,
+    "Total": 1050.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 125,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 12.5,
+    "Total-After-Comm": 362.5,
+    "Total": 375.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 11,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 22.0,
+    "Total-After-Comm": 528.0,
+    "Total": 550.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 118,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 17.7,
+    "Total-After-Comm": 572.3,
+    "Total": 590.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 5.35,
+    "count": 7621,
+    "COMMISSION (per row avg)": 1.05,
+    "Total-Comm": 7966.42,
+    "Total-After-Comm": 32778.58,
+    "Total": 40745.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 21.0,
+    "Total-After-Comm": 399.0,
+    "Total": 420.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 48.0,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 336,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 504.0,
+    "Total-After-Comm": 9576.0,
+    "Total": 10080.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 14,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 7.0,
+    "Total-After-Comm": 133.0,
+    "Total": 140.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 8,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 8.0,
+    "Total-After-Comm": 192.0,
+    "Total": 200.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 222,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 111.0,
+    "Total-After-Comm": 2109.0,
+    "Total": 2220.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales 650GB Libyana NET+",
+    "Total Amount (per row avg)": 250.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 10.0,
+    "Total-Comm": 10.0,
+    "Total-After-Comm": 240.0,
+    "Total": 250.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 9.0,
+    "Total-After-Comm": 201.0,
+    "Total": 210.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 10.0,
+    "Total-After-Comm": 240.0,
+    "Total": 250.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales Qassitha 10GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales Qassitha 15GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 55,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 2.4,
+    "Total-After-Comm": 57.6,
+    "Total": 60.0
+  },
+  {
+    "﻿SUB_DEALER": "Albayda",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.69,
+    "count": 4644,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2322.0,
+    "Total-After-Comm": 19476.0,
+    "Total": 21798.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 1591,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 2386.5,
+    "Total-After-Comm": 5568.5,
+    "Total": 7955.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 25,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 100.0,
+    "Total-After-Comm": 2400.0,
+    "Total": 2500.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 211,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 84.4,
+    "Total-After-Comm": 2025.6,
+    "Total": 2110.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 20,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 19.0,
+    "Total": 20.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 65,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 45.5,
+    "Total-After-Comm": 1254.5,
+    "Total": 1300.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.07,
+    "Total-After-Comm": 1.93,
+    "Total": 2.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 118,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 118.0,
+    "Total-After-Comm": 3422.0,
+    "Total": 3540.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 22,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 2.2,
+    "Total-After-Comm": 63.8,
+    "Total": 66.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 48,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 96.0,
+    "Total-After-Comm": 2304.0,
+    "Total": 2400.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 502,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 75.3,
+    "Total-After-Comm": 2434.7,
+    "Total": 2510.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 9.06,
+    "count": 10014,
+    "COMMISSION (per row avg)": 1.24,
+    "Total-Comm": 12434.03,
+    "Total-After-Comm": 78260.97,
+    "Total": 90695.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 3.5,
+    "Total-After-Comm": 66.5,
+    "Total": 70.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 19,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 38.0,
+    "Total-After-Comm": 912.0,
+    "Total": 950.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 110,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 165.0,
+    "Total-After-Comm": 3135.0,
+    "Total": 3300.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales 4000MB",
+    "Total Amount (per row avg)": 12.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 11.5,
+    "Total": 12.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 18,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 9.0,
+    "Total-After-Comm": 171.0,
+    "Total": 180.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 43,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 43.0,
+    "Total-After-Comm": 1032.0,
+    "Total": 1075.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 29,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 14.5,
+    "Total-After-Comm": 275.5,
+    "Total": 290.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales 6000MB",
+    "Total Amount (per row avg)": 16.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 15.5,
+    "Total": 16.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 21,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 31.5,
+    "Total-After-Comm": 703.5,
+    "Total": 735.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 3.0,
+    "Total-After-Comm": 57.0,
+    "Total": 60.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 96.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 8.0,
+    "Total-After-Comm": 192.0,
+    "Total": 200.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 28.5,
+    "Total": 30.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 96.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales Qassitha 10GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales Qassitha 15GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 0.4,
+    "Total-After-Comm": 9.6,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "Package Sales Unlimited Weekly New",
+    "Total Amount (per row avg)": 60.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 3.0,
+    "Total-Comm": 3.0,
+    "Total-After-Comm": 57.0,
+    "Total": 60.0
+  },
+  {
+    "﻿SUB_DEALER": "almadar",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.48,
+    "count": 8384,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 4192.0,
+    "Total-After-Comm": 33360.0,
+    "Total": 37552.0
+  },
+  {
+    "﻿SUB_DEALER": "alzintan",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 21,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 31.5,
+    "Total-After-Comm": 73.5,
+    "Total": 105.0
+  },
+  {
+    "﻿SUB_DEALER": "alzintan",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 0.15,
+    "Total-After-Comm": 4.85,
+    "Total": 5.0
+  },
+  {
+    "﻿SUB_DEALER": "alzintan",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 7.11,
+    "count": 133,
+    "COMMISSION (per row avg)": 1.12,
+    "Total-Comm": 149.0,
+    "Total-After-Comm": 796.0,
+    "Total": 945.0
+  },
+  {
+    "﻿SUB_DEALER": "alzintan",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 3.93,
+    "count": 45,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 22.5,
+    "Total-After-Comm": 154.5,
+    "Total": 177.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 1014,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 1521.0,
+    "Total-After-Comm": 3549.0,
+    "Total": 5070.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 28.0,
+    "Total-After-Comm": 672.0,
+    "Total": 700.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 58,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 23.2,
+    "Total-After-Comm": 556.8,
+    "Total": 580.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 35,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 24.5,
+    "Total-After-Comm": 675.5,
+    "Total": 700.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.28,
+    "Total-After-Comm": 7.72,
+    "Total": 8.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 31,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 31.0,
+    "Total-After-Comm": 899.0,
+    "Total": 930.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 0.9,
+    "Total-After-Comm": 26.1,
+    "Total": 27.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "eTopup Sale 50000000LYD",
+    "Total Amount (per row avg)": 500.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 15.0,
+    "Total-Comm": 45.0,
+    "Total-After-Comm": 1455.0,
+    "Total": 1500.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 24,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 48.0,
+    "Total-After-Comm": 1152.0,
+    "Total": 1200.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 154,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 23.1,
+    "Total-After-Comm": 746.9,
+    "Total": 770.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 6.89,
+    "count": 6122,
+    "COMMISSION (per row avg)": 1.14,
+    "Total-Comm": 6969.36,
+    "Total-After-Comm": 35230.64,
+    "Total": 42200.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 31.5,
+    "Total-After-Comm": 598.5,
+    "Total": 630.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 14,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 28.0,
+    "Total-After-Comm": 672.0,
+    "Total": 700.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 150GB Libyana NET+",
+    "Total Amount (per row avg)": 100.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 5.0,
+    "Total-Comm": 10.0,
+    "Total-After-Comm": 190.0,
+    "Total": 200.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 2000MB",
+    "Total Amount (per row avg)": 8.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 7.5,
+    "Total": 8.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 292,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 438.0,
+    "Total-After-Comm": 8322.0,
+    "Total": 8760.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 4000MB",
+    "Total Amount (per row avg)": 12.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 11.5,
+    "Total": 12.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 33,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 16.5,
+    "Total-After-Comm": 313.5,
+    "Total": 330.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 44,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 44.0,
+    "Total-After-Comm": 1056.0,
+    "Total": 1100.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 191,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 95.5,
+    "Total-After-Comm": 1814.5,
+    "Total": 1910.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 650GB Libyana NET+",
+    "Total Amount (per row avg)": 250.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 10.0,
+    "Total-Comm": 10.0,
+    "Total-After-Comm": 240.0,
+    "Total": 250.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 16,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 24.0,
+    "Total-After-Comm": 536.0,
+    "Total": 560.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 2.25,
+    "Total-After-Comm": 42.75,
+    "Total": 45.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 9.0,
+    "Total-After-Comm": 216.0,
+    "Total": 225.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 4.5,
+    "Total-After-Comm": 100.5,
+    "Total": 105.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 19.0,
+    "Total": 20.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "Package Sales Qassitha 10GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 16,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "Eastern Region",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.46,
+    "count": 4417,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2208.5,
+    "Total-After-Comm": 17497.5,
+    "Total": 19706.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 1693,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 2539.5,
+    "Total-After-Comm": 5925.5,
+    "Total": 8465.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 24.0,
+    "Total-After-Comm": 576.0,
+    "Total": 600.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 101,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 40.4,
+    "Total-After-Comm": 969.6,
+    "Total": 1010.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.1,
+    "Total-After-Comm": 1.9,
+    "Total": 2.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 26,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 18.2,
+    "Total-After-Comm": 501.8,
+    "Total": 520.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.14,
+    "Total-After-Comm": 3.86,
+    "Total": 4.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 26,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 26.0,
+    "Total-After-Comm": 754.0,
+    "Total": 780.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 22,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 2.2,
+    "Total-After-Comm": 63.8,
+    "Total": 66.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 21,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 42.0,
+    "Total-After-Comm": 1008.0,
+    "Total": 1050.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 542,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 81.3,
+    "Total-After-Comm": 2628.7,
+    "Total": 2710.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 8.05,
+    "count": 7164,
+    "COMMISSION (per row avg)": 1.18,
+    "Total-Comm": 8434.74,
+    "Total-After-Comm": 49260.26,
+    "Total": 57695.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 8,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 28.0,
+    "Total-After-Comm": 532.0,
+    "Total": 560.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 24.0,
+    "Total-After-Comm": 576.0,
+    "Total": 600.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 2000MB",
+    "Total Amount (per row avg)": 8.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 22.5,
+    "Total": 24.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 73,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 109.5,
+    "Total-After-Comm": 2080.5,
+    "Total": 2190.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 4000MB",
+    "Total Amount (per row avg)": 12.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 46.0,
+    "Total": 48.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 13,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 6.5,
+    "Total-After-Comm": 123.5,
+    "Total": 130.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 30,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 30.0,
+    "Total-After-Comm": 720.0,
+    "Total": 750.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 8,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 76.0,
+    "Total": 80.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 5GB NET PLUS NEW",
+    "Total Amount (per row avg)": 10.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 9.5,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 6000MB",
+    "Total Amount (per row avg)": 16.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2.5,
+    "Total-After-Comm": 77.5,
+    "Total": 80.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 32,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 48.0,
+    "Total-After-Comm": 1072.0,
+    "Total": 1120.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 6.75,
+    "Total-After-Comm": 128.25,
+    "Total": 135.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 24.0,
+    "Total": 25.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 3.0,
+    "Total-After-Comm": 67.0,
+    "Total": 70.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 48.0,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales Monthly_5G",
+    "Total Amount (per row avg)": 10.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 9.5,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 28.5,
+    "Total": 30.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 1.2,
+    "Total-After-Comm": 28.8,
+    "Total": 30.0
+  },
+  {
+    "﻿SUB_DEALER": "Efurn",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.49,
+    "count": 7724,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 3862.0,
+    "Total-After-Comm": 30810.0,
+    "Total": 34672.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 816,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 1224.0,
+    "Total-After-Comm": 2856.0,
+    "Total": 4080.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 8.0,
+    "Total-After-Comm": 192.0,
+    "Total": 200.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 35,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 14.0,
+    "Total-After-Comm": 336.0,
+    "Total": 350.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 6.3,
+    "Total-After-Comm": 173.7,
+    "Total": 180.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.07,
+    "Total-After-Comm": 1.93,
+    "Total": 2.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 12.0,
+    "Total-After-Comm": 348.0,
+    "Total": 360.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 8,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 0.8,
+    "Total-After-Comm": 23.2,
+    "Total": 24.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 24.0,
+    "Total-After-Comm": 576.0,
+    "Total": 600.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 86,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 12.9,
+    "Total-After-Comm": 417.1,
+    "Total": 430.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 6.47,
+    "count": 4202,
+    "COMMISSION (per row avg)": 1.09,
+    "Total-Comm": 4590.51,
+    "Total-After-Comm": 22589.49,
+    "Total": 27180.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 31.5,
+    "Total-After-Comm": 598.5,
+    "Total": 630.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 48.0,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 80,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 120.0,
+    "Total-After-Comm": 2280.0,
+    "Total": 2400.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 11,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 5.5,
+    "Total-After-Comm": 104.5,
+    "Total": 110.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 12.0,
+    "Total-After-Comm": 288.0,
+    "Total": 300.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 31,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 15.5,
+    "Total-After-Comm": 294.5,
+    "Total": 310.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 9.0,
+    "Total-After-Comm": 201.0,
+    "Total": 210.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 28.5,
+    "Total": 30.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 33.5,
+    "Total": 35.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 19.0,
+    "Total": 20.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 48.0,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 0.8,
+    "Total-After-Comm": 19.2,
+    "Total": 20.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "Package Sales Unlimited Weekly New",
+    "Total Amount (per row avg)": 60.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 3.0,
+    "Total-Comm": 3.0,
+    "Total-After-Comm": 57.0,
+    "Total": 60.0
+  },
+  {
+    "﻿SUB_DEALER": "Gharyan",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.53,
+    "count": 3841,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1920.5,
+    "Total-After-Comm": 15484.5,
+    "Total": 17405.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 114,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 171.0,
+    "Total-After-Comm": 399.0,
+    "Total": 570.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 96.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 15,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.15,
+    "Total-After-Comm": 2.85,
+    "Total": 3.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 2.1,
+    "Total-After-Comm": 57.9,
+    "Total": 60.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 3.0,
+    "Total-After-Comm": 87.0,
+    "Total": 90.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 0.1,
+    "Total-After-Comm": 2.9,
+    "Total": 3.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 8.0,
+    "Total-After-Comm": 192.0,
+    "Total": 200.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 32,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 4.8,
+    "Total-After-Comm": 155.2,
+    "Total": 160.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 10.23,
+    "count": 838,
+    "COMMISSION (per row avg)": 1.3,
+    "Total-Comm": 1091.21,
+    "Total-After-Comm": 7478.79,
+    "Total": 8570.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 3.5,
+    "Total-After-Comm": 66.5,
+    "Total": 70.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 8,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 12.0,
+    "Total-After-Comm": 228.0,
+    "Total": 240.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 17,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 8.5,
+    "Total-After-Comm": 161.5,
+    "Total": 170.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 7.0,
+    "Total-After-Comm": 168.0,
+    "Total": 175.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 33.5,
+    "Total": 35.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 28.5,
+    "Total": 30.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 24.0,
+    "Total": 25.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 33.5,
+    "Total": 35.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 96.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 19.0,
+    "Total": 20.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "Package Sales Qassitha 10GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "jinzur",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.58,
+    "count": 559,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 279.5,
+    "Total-After-Comm": 2281.5,
+    "Total": 2561.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 1095,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 1642.5,
+    "Total-After-Comm": 3832.5,
+    "Total": 5475.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 36.0,
+    "Total-After-Comm": 864.0,
+    "Total": 900.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 170,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 68.0,
+    "Total-After-Comm": 1632.0,
+    "Total": 1700.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.3,
+    "Total-After-Comm": 5.7,
+    "Total": 6.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 52,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 36.4,
+    "Total-After-Comm": 1003.6,
+    "Total": 1040.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.14,
+    "Total-After-Comm": 3.86,
+    "Total": 4.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 55,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 55.0,
+    "Total-After-Comm": 1595.0,
+    "Total": 1650.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 46,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 4.6,
+    "Total-After-Comm": 133.4,
+    "Total": 138.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "eTopup Sale 35000000LYD",
+    "Total Amount (per row avg)": 350.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 10.5,
+    "Total-Comm": 21.0,
+    "Total-After-Comm": 679.0,
+    "Total": 700.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 35,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 70.0,
+    "Total-After-Comm": 1680.0,
+    "Total": 1750.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 438,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 65.7,
+    "Total-After-Comm": 2124.3,
+    "Total": 2190.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 6.92,
+    "count": 5557,
+    "COMMISSION (per row avg)": 1.12,
+    "Total-Comm": 6235.01,
+    "Total-After-Comm": 32219.99,
+    "Total": 38455.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 48,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 168.0,
+    "Total-After-Comm": 3192.0,
+    "Total": 3360.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 52,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 104.0,
+    "Total-After-Comm": 2496.0,
+    "Total": 2600.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 2000MB",
+    "Total Amount (per row avg)": 8.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 15.0,
+    "Total": 16.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 250GB Libyana NET+",
+    "Total Amount (per row avg)": 150.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 6.0,
+    "Total-Comm": 12.0,
+    "Total-After-Comm": 288.0,
+    "Total": 300.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 230,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 345.0,
+    "Total-After-Comm": 6555.0,
+    "Total": 6900.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 4000MB",
+    "Total Amount (per row avg)": 12.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 138.0,
+    "Total": 144.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 44,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 22.0,
+    "Total-After-Comm": 418.0,
+    "Total": 440.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 72,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 72.0,
+    "Total-After-Comm": 1728.0,
+    "Total": 1800.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 41,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 20.5,
+    "Total-After-Comm": 389.5,
+    "Total": 410.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 6000MB",
+    "Total Amount (per row avg)": 16.0,
+    "count": 19,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 9.5,
+    "Total-After-Comm": 294.5,
+    "Total": 304.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 650GB Libyana NET+",
+    "Total Amount (per row avg)": 250.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 10.0,
+    "Total-Comm": 10.0,
+    "Total-After-Comm": 240.0,
+    "Total": 250.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 70,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 105.0,
+    "Total-After-Comm": 2345.0,
+    "Total": 2450.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 800MB",
+    "Total Amount (per row avg)": 4.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.2,
+    "Total-Comm": 0.6,
+    "Total-After-Comm": 11.4,
+    "Total": 12.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 29,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 21.75,
+    "Total-After-Comm": 413.25,
+    "Total": 435.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 12.0,
+    "Total-After-Comm": 288.0,
+    "Total": 300.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 13.5,
+    "Total-After-Comm": 301.5,
+    "Total": 315.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2.5,
+    "Total-After-Comm": 47.5,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 10.0,
+    "Total-After-Comm": 240.0,
+    "Total": 250.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 2.8,
+    "Total-After-Comm": 67.2,
+    "Total": 70.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "Package Sales Unlimited Weekly New",
+    "Total Amount (per row avg)": 60.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 3.0,
+    "Total-Comm": 3.0,
+    "Total-After-Comm": 57.0,
+    "Total": 60.0
+  },
+  {
+    "﻿SUB_DEALER": "Khums",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.51,
+    "count": 4359,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2179.5,
+    "Total-After-Comm": 17494.5,
+    "Total": 19674.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 342,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 513.0,
+    "Total-After-Comm": 1197.0,
+    "Total": 1710.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 24.0,
+    "Total-After-Comm": 576.0,
+    "Total": 600.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 102,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 40.8,
+    "Total-After-Comm": 979.2,
+    "Total": 1020.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.1,
+    "Total-After-Comm": 1.9,
+    "Total": 2.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 33,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 23.1,
+    "Total-After-Comm": 636.9,
+    "Total": 660.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.07,
+    "Total-After-Comm": 1.93,
+    "Total": 2.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 22,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 22.0,
+    "Total-After-Comm": 638.0,
+    "Total": 660.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 0.9,
+    "Total-After-Comm": 26.1,
+    "Total": 27.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 14,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 28.0,
+    "Total-After-Comm": 672.0,
+    "Total": 700.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 192,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 28.8,
+    "Total-After-Comm": 931.2,
+    "Total": 960.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 7.93,
+    "count": 1929,
+    "COMMISSION (per row avg)": 1.17,
+    "Total-Comm": 2257.7,
+    "Total-After-Comm": 13047.3,
+    "Total": 15305.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 31.5,
+    "Total-After-Comm": 598.5,
+    "Total": 630.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 22,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 44.0,
+    "Total-After-Comm": 1056.0,
+    "Total": 1100.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 13.5,
+    "Total-After-Comm": 256.5,
+    "Total": 270.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 48,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 24.0,
+    "Total-After-Comm": 456.0,
+    "Total": 480.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 27,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 27.0,
+    "Total-After-Comm": 648.0,
+    "Total": 675.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 9.5,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 13,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 19.5,
+    "Total-After-Comm": 435.5,
+    "Total": 455.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 28.5,
+    "Total": 30.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 3.0,
+    "Total-After-Comm": 72.0,
+    "Total": 75.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 48.0,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales Monthly_5G",
+    "Total Amount (per row avg)": 10.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 9.5,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 3.5,
+    "Total-After-Comm": 66.5,
+    "Total": 70.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 48.0,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "mamooun",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.58,
+    "count": 1677,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 838.5,
+    "Total-After-Comm": 6844.5,
+    "Total": 7683.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 2418,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 3627.0,
+    "Total-After-Comm": 8463.0,
+    "Total": 12090.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 103,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 412.0,
+    "Total-After-Comm": 9888.0,
+    "Total": 10300.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 464,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 185.6,
+    "Total-After-Comm": 4454.4,
+    "Total": 4640.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 14,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.7,
+    "Total-After-Comm": 13.3,
+    "Total": 14.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 341,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 238.7,
+    "Total-After-Comm": 6581.3,
+    "Total": 6820.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 14,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.98,
+    "Total-After-Comm": 27.02,
+    "Total": 28.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 218,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 218.0,
+    "Total-After-Comm": 6322.0,
+    "Total": 6540.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 41,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 4.1,
+    "Total-After-Comm": 118.9,
+    "Total": 123.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 35000000LYD",
+    "Total Amount (per row avg)": 350.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 10.5,
+    "Total-Comm": 52.5,
+    "Total-After-Comm": 1697.5,
+    "Total": 1750.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 50000000LYD",
+    "Total Amount (per row avg)": 500.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 15.0,
+    "Total-Comm": 45.0,
+    "Total-After-Comm": 1455.0,
+    "Total": 1500.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 248,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 496.0,
+    "Total-After-Comm": 11904.0,
+    "Total": 12400.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 849,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 127.35,
+    "Total-After-Comm": 4117.65,
+    "Total": 4245.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 7.75,
+    "count": 16316,
+    "COMMISSION (per row avg)": 1.19,
+    "Total-Comm": 19408.54,
+    "Total-After-Comm": 107086.46,
+    "Total": 126495.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 276,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 966.0,
+    "Total-After-Comm": 18354.0,
+    "Total": 19320.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 100MB",
+    "Total Amount (per row avg)": 1.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 0.2,
+    "Total-After-Comm": 1.8,
+    "Total": 2.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 191,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 382.0,
+    "Total-After-Comm": 9168.0,
+    "Total": 9550.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 150GB Libyana NET+",
+    "Total Amount (per row avg)": 100.0,
+    "count": 29,
+    "COMMISSION (per row avg)": 5.0,
+    "Total-Comm": 145.0,
+    "Total-After-Comm": 2755.0,
+    "Total": 2900.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 2000MB",
+    "Total Amount (per row avg)": 8.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2.5,
+    "Total-After-Comm": 37.5,
+    "Total": 40.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 250GB Libyana NET+",
+    "Total Amount (per row avg)": 150.0,
+    "count": 26,
+    "COMMISSION (per row avg)": 6.0,
+    "Total-Comm": 156.0,
+    "Total-After-Comm": 3744.0,
+    "Total": 3900.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 25GB libyana net plus NEW",
+    "Total Amount (per row avg)": 30.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 28.5,
+    "Total": 30.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 1087,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 1630.5,
+    "Total-After-Comm": 30979.5,
+    "Total": 32610.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 4000MB",
+    "Total Amount (per row avg)": 12.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 3.0,
+    "Total-After-Comm": 69.0,
+    "Total": 72.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 400MB",
+    "Total Amount (per row avg)": 3.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 0.1,
+    "Total-After-Comm": 2.9,
+    "Total": 3.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 127,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 63.5,
+    "Total-After-Comm": 1206.5,
+    "Total": 1270.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 248,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 248.0,
+    "Total-After-Comm": 5952.0,
+    "Total": 6200.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 372,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 186.0,
+    "Total-After-Comm": 3534.0,
+    "Total": 3720.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 6000MB",
+    "Total Amount (per row avg)": 16.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 31.0,
+    "Total": 32.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 258,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 387.0,
+    "Total-After-Comm": 8643.0,
+    "Total": 9030.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 800MB",
+    "Total Amount (per row avg)": 4.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.2,
+    "Total-Comm": 0.4,
+    "Total-After-Comm": 7.6,
+    "Total": 8.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 45,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 33.75,
+    "Total-After-Comm": 641.25,
+    "Total": 675.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales Monthly 50G",
+    "Total Amount (per row avg)": 50.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 25,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 25.0,
+    "Total-After-Comm": 600.0,
+    "Total": 625.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 30,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 45.0,
+    "Total-After-Comm": 1005.0,
+    "Total": 1050.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 24,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 48.0,
+    "Total-After-Comm": 1152.0,
+    "Total": 1200.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales Monthly_5G",
+    "Total Amount (per row avg)": 10.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 9.5,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 17,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 8.5,
+    "Total-After-Comm": 161.5,
+    "Total": 170.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 20,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 40.0,
+    "Total-After-Comm": 960.0,
+    "Total": 1000.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales Qassitha 10GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales Qassitha 15GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 15,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "Package Sales Unlimited Weekly New",
+    "Total Amount (per row avg)": 60.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 3.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 114.0,
+    "Total": 120.0
+  },
+  {
+    "﻿SUB_DEALER": "mosrata",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.6,
+    "count": 9760,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 4880.0,
+    "Total-After-Comm": 40005.0,
+    "Total": 44885.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 558,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 837.0,
+    "Total-After-Comm": 1953.0,
+    "Total": 2790.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 12.0,
+    "Total-After-Comm": 288.0,
+    "Total": 300.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 69,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 27.6,
+    "Total-After-Comm": 662.4,
+    "Total": 690.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.1,
+    "Total-After-Comm": 1.9,
+    "Total": 2.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 8.4,
+    "Total-After-Comm": 231.6,
+    "Total": 240.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.21,
+    "Total-After-Comm": 5.79,
+    "Total": 6.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 116.0,
+    "Total": 120.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 37,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 3.7,
+    "Total-After-Comm": 107.3,
+    "Total": 111.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 14.0,
+    "Total-After-Comm": 336.0,
+    "Total": 350.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 155,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 23.25,
+    "Total-After-Comm": 751.75,
+    "Total": 775.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 6.19,
+    "count": 2976,
+    "COMMISSION (per row avg)": 1.08,
+    "Total-Comm": 3207.73,
+    "Total-After-Comm": 15207.27,
+    "Total": 18415.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 17.5,
+    "Total-After-Comm": 332.5,
+    "Total": 350.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 8.0,
+    "Total-After-Comm": 192.0,
+    "Total": 200.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 2000MB",
+    "Total Amount (per row avg)": 8.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 7.5,
+    "Total": 8.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 92,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 138.0,
+    "Total-After-Comm": 2622.0,
+    "Total": 2760.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 400MB",
+    "Total Amount (per row avg)": 3.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 0.1,
+    "Total-After-Comm": 2.9,
+    "Total": 3.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 19.0,
+    "Total": 20.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 10,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 10.0,
+    "Total-After-Comm": 240.0,
+    "Total": 250.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 34,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 17.0,
+    "Total-After-Comm": 323.0,
+    "Total": 340.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 4.5,
+    "Total-After-Comm": 100.5,
+    "Total": 105.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 800MB",
+    "Total Amount (per row avg)": 4.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.2,
+    "Total-Comm": 0.2,
+    "Total-After-Comm": 3.8,
+    "Total": 4.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 3.0,
+    "Total-After-Comm": 57.0,
+    "Total": 60.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 24.0,
+    "Total": 25.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 9.5,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 48.0,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "qasr bin ghashir",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.41,
+    "count": 2578,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1289.0,
+    "Total-After-Comm": 10074.0,
+    "Total": 11363.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 1486,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 2229.0,
+    "Total-After-Comm": 5201.0,
+    "Total": 7430.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 10,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 40.0,
+    "Total-After-Comm": 960.0,
+    "Total": 1000.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 347,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 138.8,
+    "Total-After-Comm": 3331.2,
+    "Total": 3470.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 17,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.85,
+    "Total-After-Comm": 16.15,
+    "Total": 17.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 103,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 72.1,
+    "Total-After-Comm": 1987.9,
+    "Total": 2060.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 24,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 1.68,
+    "Total-After-Comm": 46.32,
+    "Total": 48.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 127,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 127.0,
+    "Total-After-Comm": 3683.0,
+    "Total": 3810.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 85,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 8.5,
+    "Total-After-Comm": 246.5,
+    "Total": 255.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 38,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 76.0,
+    "Total-After-Comm": 1824.0,
+    "Total": 1900.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 715,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 107.25,
+    "Total-After-Comm": 3467.75,
+    "Total": 3575.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 6.17,
+    "count": 10250,
+    "COMMISSION (per row avg)": 1.07,
+    "Total-Comm": 10994.26,
+    "Total-After-Comm": 52230.74,
+    "Total": 63225.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 21.0,
+    "Total-After-Comm": 399.0,
+    "Total": 420.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 100MB",
+    "Total Amount (per row avg)": 1.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 0.1,
+    "Total-After-Comm": 0.9,
+    "Total": 1.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 23,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 46.0,
+    "Total-After-Comm": 1104.0,
+    "Total": 1150.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 2000MB",
+    "Total Amount (per row avg)": 8.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 22.5,
+    "Total": 24.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 44,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 66.0,
+    "Total-After-Comm": 1254.0,
+    "Total": 1320.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 4000MB",
+    "Total Amount (per row avg)": 12.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 46.0,
+    "Total": 48.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 32,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 16.0,
+    "Total-After-Comm": 304.0,
+    "Total": 320.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 59,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 59.0,
+    "Total-After-Comm": 1416.0,
+    "Total": 1475.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 75,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 37.5,
+    "Total-After-Comm": 712.5,
+    "Total": 750.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 6000MB",
+    "Total Amount (per row avg)": 16.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 46.5,
+    "Total": 48.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 73,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 109.5,
+    "Total-After-Comm": 2445.5,
+    "Total": 2555.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 800MB",
+    "Total Amount (per row avg)": 4.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 0.2,
+    "Total-Comm": 1.4,
+    "Total-After-Comm": 26.6,
+    "Total": 28.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 6.75,
+    "Total-After-Comm": 128.25,
+    "Total": 135.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 13,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 13.0,
+    "Total-After-Comm": 312.0,
+    "Total": 325.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 7.5,
+    "Total-After-Comm": 167.5,
+    "Total": 175.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 28.5,
+    "Total": 30.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 48.0,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales Qassitha 10GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales Qassitha 15GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 8,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 3.2,
+    "Total-After-Comm": 76.8,
+    "Total": 80.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "Package Sales Unlimited Weekly New",
+    "Total Amount (per row avg)": 60.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 3.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 114.0,
+    "Total": 120.0
+  },
+  {
+    "﻿SUB_DEALER": "sabaha",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.69,
+    "count": 9858,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 4929.0,
+    "Total-After-Comm": 41274.0,
+    "Total": 46203.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 886,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 1329.0,
+    "Total-After-Comm": 3101.0,
+    "Total": 4430.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 14,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 56.0,
+    "Total-After-Comm": 1344.0,
+    "Total": 1400.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 115,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 46.0,
+    "Total-After-Comm": 1104.0,
+    "Total": 1150.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.25,
+    "Total-After-Comm": 4.75,
+    "Total": 5.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 38,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 26.6,
+    "Total-After-Comm": 733.4,
+    "Total": 760.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.21,
+    "Total-After-Comm": 5.79,
+    "Total": 6.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 48,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 48.0,
+    "Total-After-Comm": 1392.0,
+    "Total": 1440.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 23,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 2.3,
+    "Total-After-Comm": 66.7,
+    "Total": 69.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 35000000LYD",
+    "Total Amount (per row avg)": 350.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 10.5,
+    "Total-Comm": 10.5,
+    "Total-After-Comm": 339.5,
+    "Total": 350.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 50000000LYD",
+    "Total Amount (per row avg)": 500.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 15.0,
+    "Total-Comm": 15.0,
+    "Total-After-Comm": 485.0,
+    "Total": 500.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 21,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 42.0,
+    "Total-After-Comm": 1008.0,
+    "Total": 1050.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 352,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 52.8,
+    "Total-After-Comm": 1707.2,
+    "Total": 1760.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 8.51,
+    "count": 4897,
+    "COMMISSION (per row avg)": 1.21,
+    "Total-Comm": 5944.01,
+    "Total-After-Comm": 35745.99,
+    "Total": 41690.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 42.0,
+    "Total-After-Comm": 798.0,
+    "Total": 840.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 31,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 62.0,
+    "Total-After-Comm": 1488.0,
+    "Total": 1550.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales 2000MB",
+    "Total Amount (per row avg)": 8.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 7.5,
+    "Total": 8.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales 250GB Libyana NET+",
+    "Total Amount (per row avg)": 150.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 6.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 98,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 147.0,
+    "Total-After-Comm": 2793.0,
+    "Total": 2940.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 41,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 20.5,
+    "Total-After-Comm": 389.5,
+    "Total": 410.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 58,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 58.0,
+    "Total-After-Comm": 1392.0,
+    "Total": 1450.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 45,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 22.5,
+    "Total-After-Comm": 427.5,
+    "Total": 450.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 64,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 96.0,
+    "Total-After-Comm": 2144.0,
+    "Total": 2240.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 10,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 7.5,
+    "Total-After-Comm": 142.5,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 13,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 13.0,
+    "Total-After-Comm": 312.0,
+    "Total": 325.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 15,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 22.5,
+    "Total-After-Comm": 502.5,
+    "Total": 525.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 8.0,
+    "Total-After-Comm": 192.0,
+    "Total": 200.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales Monthly_5G",
+    "Total Amount (per row avg)": 10.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 9.5,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 10,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 5.0,
+    "Total-After-Comm": 95.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales Qassitha 15GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 0.8,
+    "Total-After-Comm": 19.2,
+    "Total": 20.0
+  },
+  {
+    "﻿SUB_DEALER": "sug aljumea",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.5,
+    "count": 4079,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2039.5,
+    "Total-After-Comm": 16312.5,
+    "Total": 18352.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 468,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 702.0,
+    "Total-After-Comm": 1638.0,
+    "Total": 2340.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 96.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 41,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 16.4,
+    "Total-After-Comm": 393.6,
+    "Total": 410.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.05,
+    "Total-After-Comm": 0.95,
+    "Total": 1.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 6.3,
+    "Total-After-Comm": 173.7,
+    "Total": 180.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.21,
+    "Total-After-Comm": 5.79,
+    "Total": 6.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 16,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 16.0,
+    "Total-After-Comm": 464.0,
+    "Total": 480.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 32,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 3.2,
+    "Total-After-Comm": 92.8,
+    "Total": 96.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 10.0,
+    "Total-After-Comm": 240.0,
+    "Total": 250.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 95,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 14.25,
+    "Total-After-Comm": 460.75,
+    "Total": 475.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 6.81,
+    "count": 3636,
+    "COMMISSION (per row avg)": 1.11,
+    "Total-Comm": 4025.68,
+    "Total-After-Comm": 20749.32,
+    "Total": 24775.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 24.5,
+    "Total-After-Comm": 465.5,
+    "Total": 490.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "Package Sales 250GB Libyana NET+",
+    "Total Amount (per row avg)": 150.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 6.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 59,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 88.5,
+    "Total-After-Comm": 1681.5,
+    "Total": 1770.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 11,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 5.5,
+    "Total-After-Comm": 104.5,
+    "Total": 110.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 7.5,
+    "Total-After-Comm": 167.5,
+    "Total": 175.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 2.0,
+    "Total-After-Comm": 48.0,
+    "Total": 50.0
+  },
+  {
+    "﻿SUB_DEALER": "Tajura",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.59,
+    "count": 2670,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1335.0,
+    "Total-After-Comm": 10908.0,
+    "Total": 12243.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 305,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 457.5,
+    "Total-After-Comm": 1067.5,
+    "Total": 1525.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 48.0,
+    "Total-After-Comm": 1152.0,
+    "Total": 1200.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 206,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 82.4,
+    "Total-After-Comm": 1977.6,
+    "Total": 2060.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.15,
+    "Total-After-Comm": 2.85,
+    "Total": 3.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 81,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 56.7,
+    "Total-After-Comm": 1563.3,
+    "Total": 1620.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.35,
+    "Total-After-Comm": 9.65,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 65,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 65.0,
+    "Total-After-Comm": 1885.0,
+    "Total": 1950.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 112,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 11.2,
+    "Total-After-Comm": 324.8,
+    "Total": 336.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 35000000LYD",
+    "Total Amount (per row avg)": 350.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 10.5,
+    "Total-Comm": 10.5,
+    "Total-After-Comm": 339.5,
+    "Total": 350.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 50000000LYD",
+    "Total Amount (per row avg)": 500.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 15.0,
+    "Total-Comm": 30.0,
+    "Total-After-Comm": 970.0,
+    "Total": 1000.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 29,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 58.0,
+    "Total-After-Comm": 1392.0,
+    "Total": 1450.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 416,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 62.4,
+    "Total-After-Comm": 2017.6,
+    "Total": 2080.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 7.53,
+    "count": 1917,
+    "COMMISSION (per row avg)": 1.17,
+    "Total-Comm": 2245.34,
+    "Total-After-Comm": 12184.66,
+    "Total": 14430.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 7.0,
+    "Total-After-Comm": 133.0,
+    "Total": 140.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 28,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 56.0,
+    "Total-After-Comm": 1344.0,
+    "Total": 1400.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 150GB Libyana NET+",
+    "Total Amount (per row avg)": 100.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 5.0,
+    "Total-Comm": 5.0,
+    "Total-After-Comm": 95.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 2000MB",
+    "Total Amount (per row avg)": 8.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 7.5,
+    "Total": 8.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 250GB Libyana NET+",
+    "Total Amount (per row avg)": 150.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 6.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 101,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 151.5,
+    "Total-After-Comm": 2878.5,
+    "Total": 3030.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 4000MB",
+    "Total Amount (per row avg)": 12.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 34.5,
+    "Total": 36.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 17,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 8.5,
+    "Total-After-Comm": 161.5,
+    "Total": 170.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 47,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 47.0,
+    "Total-After-Comm": 1128.0,
+    "Total": 1175.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 19,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 9.5,
+    "Total-After-Comm": 180.5,
+    "Total": 190.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 59,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 88.5,
+    "Total-After-Comm": 1976.5,
+    "Total": 2065.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 800MB",
+    "Total Amount (per row avg)": 4.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.2,
+    "Total-Comm": 0.2,
+    "Total-After-Comm": 3.8,
+    "Total": 4.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 4.5,
+    "Total-After-Comm": 85.5,
+    "Total": 90.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 7.0,
+    "Total-After-Comm": 168.0,
+    "Total": 175.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 8,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 12.0,
+    "Total-After-Comm": 268.0,
+    "Total": 280.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 96.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 9.5,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 4.0,
+    "Total-After-Comm": 96.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales Qassitha 10GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales Qassitha 15GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 38,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 0.8,
+    "Total-After-Comm": 19.2,
+    "Total": 20.0
+  },
+  {
+    "﻿SUB_DEALER": "western Region",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.58,
+    "count": 1436,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 718.0,
+    "Total-After-Comm": 5859.0,
+    "Total": 6577.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 1535,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 2302.5,
+    "Total-After-Comm": 5372.5,
+    "Total": 7675.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 66,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 264.0,
+    "Total-After-Comm": 6336.0,
+    "Total": 6600.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 351,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 140.4,
+    "Total-After-Comm": 3369.6,
+    "Total": 3510.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.2,
+    "Total-After-Comm": 3.8,
+    "Total": 4.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 120,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 84.0,
+    "Total-After-Comm": 2316.0,
+    "Total": 2400.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.49,
+    "Total-After-Comm": 13.51,
+    "Total": 14.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 86,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 86.0,
+    "Total-After-Comm": 2494.0,
+    "Total": 2580.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 26,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 2.6,
+    "Total-After-Comm": 75.4,
+    "Total": 78.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 35000000LYD",
+    "Total Amount (per row avg)": 350.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 10.5,
+    "Total-Comm": 31.5,
+    "Total-After-Comm": 1018.5,
+    "Total": 1050.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 50000000LYD",
+    "Total Amount (per row avg)": 500.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 15.0,
+    "Total-Comm": 60.0,
+    "Total-After-Comm": 1940.0,
+    "Total": 2000.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 95,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 190.0,
+    "Total-After-Comm": 4560.0,
+    "Total": 4750.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 766,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 114.9,
+    "Total-After-Comm": 3715.1,
+    "Total": 3830.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 10.0,
+    "count": 5679,
+    "COMMISSION (per row avg)": 1.33,
+    "Total-Comm": 7560.51,
+    "Total-After-Comm": 49229.49,
+    "Total": 56790.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 72,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 252.0,
+    "Total-After-Comm": 4788.0,
+    "Total": 5040.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 100MB",
+    "Total Amount (per row avg)": 1.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 0.2,
+    "Total-After-Comm": 1.8,
+    "Total": 2.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 52,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 104.0,
+    "Total-After-Comm": 2496.0,
+    "Total": 2600.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 150GB Libyana NET+",
+    "Total Amount (per row avg)": 100.0,
+    "count": 8,
+    "COMMISSION (per row avg)": 5.0,
+    "Total-Comm": 40.0,
+    "Total-After-Comm": 760.0,
+    "Total": 800.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 403,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 604.5,
+    "Total-After-Comm": 11485.5,
+    "Total": 12090.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 85,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 42.5,
+    "Total-After-Comm": 807.5,
+    "Total": 850.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 85,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 85.0,
+    "Total-After-Comm": 2040.0,
+    "Total": 2125.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 185,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 92.5,
+    "Total-After-Comm": 1757.5,
+    "Total": 1850.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 6000MB",
+    "Total Amount (per row avg)": 16.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 15.5,
+    "Total": 16.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 650GB Libyana NET+",
+    "Total Amount (per row avg)": 250.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 10.0,
+    "Total-Comm": 30.0,
+    "Total-After-Comm": 720.0,
+    "Total": 750.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 91,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 136.5,
+    "Total-After-Comm": 3048.5,
+    "Total": 3185.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 800MB",
+    "Total Amount (per row avg)": 4.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.2,
+    "Total-Comm": 0.4,
+    "Total-After-Comm": 7.6,
+    "Total": 8.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 17,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 12.75,
+    "Total-After-Comm": 242.25,
+    "Total": 255.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 12.0,
+    "Total-After-Comm": 288.0,
+    "Total": 300.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 15,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 22.5,
+    "Total-After-Comm": 502.5,
+    "Total": 525.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 8,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 16.0,
+    "Total-After-Comm": 384.0,
+    "Total": 400.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales Monthly_5G",
+    "Total Amount (per row avg)": 10.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 0.5,
+    "Total-After-Comm": 9.5,
+    "Total": 10.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 10,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 5.0,
+    "Total-After-Comm": 95.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 5,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 10.0,
+    "Total-After-Comm": 240.0,
+    "Total": 250.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales Qassitha 10GB",
+    "Total Amount (per row avg)": 0.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 0.0,
+    "Total-Comm": 0.0,
+    "Total-After-Comm": 0.0,
+    "Total": 0.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 7,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 2.8,
+    "Total-After-Comm": 67.2,
+    "Total": 70.0
+  },
+  {
+    "﻿SUB_DEALER": "Zliten",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.53,
+    "count": 3965,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1982.5,
+    "Total-After-Comm": 15994.5,
+    "Total": 17977.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": 5.0,
+    "count": 936,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 1404.0,
+    "Total-After-Comm": 3276.0,
+    "Total": 4680.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": 100.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 4.0,
+    "Total-Comm": 36.0,
+    "Total-After-Comm": 864.0,
+    "Total": 900.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": 10.0,
+    "count": 169,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 67.6,
+    "Total-After-Comm": 1622.4,
+    "Total": 1690.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": 1.0,
+    "count": 14,
+    "COMMISSION (per row avg)": 0.05,
+    "Total-Comm": 0.7,
+    "Total-After-Comm": 13.3,
+    "Total": 14.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": 20.0,
+    "count": 52,
+    "COMMISSION (per row avg)": 0.7,
+    "Total-Comm": 36.4,
+    "Total-After-Comm": 1003.6,
+    "Total": 1040.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": 2.0,
+    "count": 9,
+    "COMMISSION (per row avg)": 0.07,
+    "Total-Comm": 0.63,
+    "Total-After-Comm": 17.37,
+    "Total": 18.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": 30.0,
+    "count": 46,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 46.0,
+    "Total-After-Comm": 1334.0,
+    "Total": 1380.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": 3.0,
+    "count": 74,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 7.4,
+    "Total-After-Comm": 214.6,
+    "Total": 222.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "eTopup Sale 35000000LYD",
+    "Total Amount (per row avg)": 350.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 10.5,
+    "Total-Comm": 21.0,
+    "Total-After-Comm": 679.0,
+    "Total": 700.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": 50.0,
+    "count": 47,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 94.0,
+    "Total-After-Comm": 2256.0,
+    "Total": 2350.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": 5.0,
+    "count": 467,
+    "COMMISSION (per row avg)": 0.15,
+    "Total-Comm": 70.05,
+    "Total-After-Comm": 2264.95,
+    "Total": 2335.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": 7.32,
+    "count": 6486,
+    "COMMISSION (per row avg)": 1.15,
+    "Total-Comm": 7460.2,
+    "Total-After-Comm": 39994.8,
+    "Total": 47455.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": 70.0,
+    "count": 47,
+    "COMMISSION (per row avg)": 3.5,
+    "Total-Comm": 164.5,
+    "Total-After-Comm": 3125.5,
+    "Total": 3290.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 24,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 48.0,
+    "Total-After-Comm": 1152.0,
+    "Total": 1200.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 150GB Libyana NET+",
+    "Total Amount (per row avg)": 100.0,
+    "count": 1,
+    "COMMISSION (per row avg)": 5.0,
+    "Total-Comm": 5.0,
+    "Total-After-Comm": 95.0,
+    "Total": 100.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 2000MB",
+    "Total Amount (per row avg)": 8.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 22.5,
+    "Total": 24.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": 30.0,
+    "count": 320,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 480.0,
+    "Total-After-Comm": 9120.0,
+    "Total": 9600.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 4000MB",
+    "Total Amount (per row avg)": 12.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.5,
+    "Total-After-Comm": 34.5,
+    "Total": 36.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 400MB",
+    "Total Amount (per row avg)": 3.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 0.1,
+    "Total-Comm": 0.3,
+    "Total-After-Comm": 8.7,
+    "Total": 9.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": 10.0,
+    "count": 114,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 57.0,
+    "Total-After-Comm": 1083.0,
+    "Total": 1140.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 91,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 91.0,
+    "Total-After-Comm": 2184.0,
+    "Total": 2275.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": 10.0,
+    "count": 94,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 47.0,
+    "Total-After-Comm": 893.0,
+    "Total": 940.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 6000MB",
+    "Total Amount (per row avg)": 16.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 1.0,
+    "Total-After-Comm": 31.0,
+    "Total": 32.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 53,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 79.5,
+    "Total-After-Comm": 1775.5,
+    "Total": 1855.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 800MB",
+    "Total Amount (per row avg)": 4.0,
+    "count": 4,
+    "COMMISSION (per row avg)": 0.2,
+    "Total-Comm": 0.8,
+    "Total-After-Comm": 15.2,
+    "Total": 16.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": 15.0,
+    "count": 22,
+    "COMMISSION (per row avg)": 0.75,
+    "Total-Comm": 16.5,
+    "Total-After-Comm": 313.5,
+    "Total": 330.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": 25.0,
+    "count": 15,
+    "COMMISSION (per row avg)": 1.0,
+    "Total-Comm": 15.0,
+    "Total-After-Comm": 360.0,
+    "Total": 375.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": 35.0,
+    "count": 12,
+    "COMMISSION (per row avg)": 1.5,
+    "Total-Comm": 18.0,
+    "Total-After-Comm": 402.0,
+    "Total": 420.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": 50.0,
+    "count": 3,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 6.0,
+    "Total-After-Comm": 144.0,
+    "Total": 150.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": 10.0,
+    "count": 22,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 11.0,
+    "Total-After-Comm": 209.0,
+    "Total": 220.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": 50.0,
+    "count": 6,
+    "COMMISSION (per row avg)": 2.0,
+    "Total-Comm": 12.0,
+    "Total-After-Comm": 288.0,
+    "Total": 300.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": 10.0,
+    "count": 2,
+    "COMMISSION (per row avg)": 0.4,
+    "Total-Comm": 0.8,
+    "Total-After-Comm": 19.2,
+    "Total": 20.0
+  },
+  {
+    "﻿SUB_DEALER": "Zwara",
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": 4.55,
+    "count": 4923,
+    "COMMISSION (per row avg)": 0.5,
+    "Total-Comm": 2461.5,
+    "Total-After-Comm": 19951.5,
+    "Total": 22413.0
+  }
+]

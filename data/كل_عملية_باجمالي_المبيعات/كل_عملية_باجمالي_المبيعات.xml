@@ -1,0 +1,310 @@
+<DATA>
+
+	<ROW>
+		<Recharge_type_LYD>NEW CONNECTION</Recharge_type_LYD>
+		<total_all_sum>715880.0000</total_all_sum>
+		<total_comm_sum>111088.9800</total_comm_sum>
+		<total_after_comm_sum>604791.0200</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>SIM CARD REPLACE</Recharge_type_LYD>
+		<total_all_sum>341371.0000</total_all_sum>
+		<total_comm_sum>37472.5000</total_comm_sum>
+		<total_after_comm_sum>303898.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 25GB Libyana NET+</Recharge_type_LYD>
+		<total_all_sum>100890.0000</total_all_sum>
+		<total_comm_sum>5044.5000</total_comm_sum>
+		<total_after_comm_sum>95845.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>ACTIVE FROZEN</Recharge_type_LYD>
+		<total_all_sum>83480.0000</total_all_sum>
+		<total_comm_sum>25041.0000</total_comm_sum>
+		<total_after_comm_sum>58439.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 100GB Libyana NET+</Recharge_type_LYD>
+		<total_all_sum>36470.0000</total_all_sum>
+		<total_comm_sum>1823.5000</total_comm_sum>
+		<total_after_comm_sum>34646.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 5000000LYD</Recharge_type_LYD>
+		<total_all_sum>33200.0000</total_all_sum>
+		<total_comm_sum>1328.0000</total_comm_sum>
+		<total_after_comm_sum>31872.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 500000LYD</Recharge_type_LYD>
+		<total_all_sum>29425.0000</total_all_sum>
+		<total_comm_sum>882.7500</total_comm_sum>
+		<total_after_comm_sum>28542.2500</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 10000000LYD</Recharge_type_LYD>
+		<total_all_sum>27800.0000</total_all_sum>
+		<total_comm_sum>1112.0000</total_comm_sum>
+		<total_after_comm_sum>26688.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 3000000LYD</Recharge_type_LYD>
+		<total_all_sum>27480.0000</total_all_sum>
+		<total_comm_sum>916.0000</total_comm_sum>
+		<total_after_comm_sum>26564.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 7GB</Recharge_type_LYD>
+		<total_all_sum>27055.0000</total_all_sum>
+		<total_comm_sum>1159.5000</total_comm_sum>
+		<total_after_comm_sum>25895.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 1000000LYD</Recharge_type_LYD>
+		<total_all_sum>25020.0000</total_all_sum>
+		<total_comm_sum>1000.8000</total_comm_sum>
+		<total_after_comm_sum>24019.2000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 10GB</Recharge_type_LYD>
+		<total_all_sum>23850.0000</total_all_sum>
+		<total_comm_sum>954.0000</total_comm_sum>
+		<total_after_comm_sum>22896.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 5GB</Recharge_type_LYD>
+		<total_all_sum>21025.0000</total_all_sum>
+		<total_comm_sum>841.0000</total_comm_sum>
+		<total_after_comm_sum>20184.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 2000000LYD</Recharge_type_LYD>
+		<total_all_sum>19880.0000</total_all_sum>
+		<total_comm_sum>695.8000</total_comm_sum>
+		<total_after_comm_sum>19184.2000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 5GB Libyana NET+</Recharge_type_LYD>
+		<total_all_sum>13630.0000</total_all_sum>
+		<total_comm_sum>681.5000</total_comm_sum>
+		<total_after_comm_sum>12948.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 50000000LYD</Recharge_type_LYD>
+		<total_all_sum>6500.0000</total_all_sum>
+		<total_comm_sum>195.0000</total_comm_sum>
+		<total_after_comm_sum>6305.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 5 Giga package</Recharge_type_LYD>
+		<total_all_sum>6160.0000</total_all_sum>
+		<total_comm_sum>308.0000</total_comm_sum>
+		<total_after_comm_sum>5852.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 35000000LYD</Recharge_type_LYD>
+		<total_all_sum>4900.0000</total_all_sum>
+		<total_comm_sum>147.0000</total_comm_sum>
+		<total_after_comm_sum>4753.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 250GB Libyana NET+</Recharge_type_LYD>
+		<total_all_sum>4650.0000</total_all_sum>
+		<total_comm_sum>186.0000</total_comm_sum>
+		<total_after_comm_sum>4464.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 150GB Libyana NET+</Recharge_type_LYD>
+		<total_all_sum>4200.0000</total_all_sum>
+		<total_comm_sum>210.0000</total_comm_sum>
+		<total_after_comm_sum>3990.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales Monthly_21GB</Recharge_type_LYD>
+		<total_all_sum>3535.0000</total_all_sum>
+		<total_comm_sum>151.5000</total_comm_sum>
+		<total_after_comm_sum>3383.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales Monthly_15GB</Recharge_type_LYD>
+		<total_all_sum>2900.0000</total_all_sum>
+		<total_comm_sum>116.0000</total_comm_sum>
+		<total_after_comm_sum>2784.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales off peak Libyana NET+</Recharge_type_LYD>
+		<total_all_sum>2800.0000</total_all_sum>
+		<total_comm_sum>112.0000</total_comm_sum>
+		<total_after_comm_sum>2688.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales Monthly_50GB</Recharge_type_LYD>
+		<total_all_sum>2750.0000</total_all_sum>
+		<total_comm_sum>110.0000</total_comm_sum>
+		<total_after_comm_sum>2640.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 8GB</Recharge_type_LYD>
+		<total_all_sum>2460.0000</total_all_sum>
+		<total_comm_sum>123.0000</total_comm_sum>
+		<total_after_comm_sum>2337.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 300000LYD</Recharge_type_LYD>
+		<total_all_sum>2016.0000</total_all_sum>
+		<total_comm_sum>67.2000</total_comm_sum>
+		<total_after_comm_sum>1948.8000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 650GB Libyana NET+</Recharge_type_LYD>
+		<total_all_sum>1500.0000</total_all_sum>
+		<total_comm_sum>60.0000</total_comm_sum>
+		<total_after_comm_sum>1440.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales Monthly_5GB</Recharge_type_LYD>
+		<total_all_sum>880.0000</total_all_sum>
+		<total_comm_sum>44.0000</total_comm_sum>
+		<total_after_comm_sum>836.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales Unlimited Daily New</Recharge_type_LYD>
+		<total_all_sum>550.0000</total_all_sum>
+		<total_comm_sum>22.0000</total_comm_sum>
+		<total_after_comm_sum>528.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 6000MB</Recharge_type_LYD>
+		<total_all_sum>528.0000</total_all_sum>
+		<total_comm_sum>16.5000</total_comm_sum>
+		<total_after_comm_sum>511.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales Unlimited Weekly New</Recharge_type_LYD>
+		<total_all_sum>420.0000</total_all_sum>
+		<total_comm_sum>21.0000</total_comm_sum>
+		<total_after_comm_sum>399.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 4000MB</Recharge_type_LYD>
+		<total_all_sum>408.0000</total_all_sum>
+		<total_comm_sum>17.0000</total_comm_sum>
+		<total_after_comm_sum>391.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 200000LYD</Recharge_type_LYD>
+		<total_all_sum>182.0000</total_all_sum>
+		<total_comm_sum>6.3700</total_comm_sum>
+		<total_after_comm_sum>175.6300</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 2000MB</Recharge_type_LYD>
+		<total_all_sum>160.0000</total_all_sum>
+		<total_comm_sum>10.0000</total_comm_sum>
+		<total_after_comm_sum>150.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales Monthly 50G</Recharge_type_LYD>
+		<total_all_sum>150.0000</total_all_sum>
+		<total_comm_sum>6.0000</total_comm_sum>
+		<total_after_comm_sum>144.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>eTopup Sale 100000LYD</Recharge_type_LYD>
+		<total_all_sum>103.0000</total_all_sum>
+		<total_comm_sum>5.1500</total_comm_sum>
+		<total_after_comm_sum>97.8500</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 800MB</Recharge_type_LYD>
+		<total_all_sum>80.0000</total_all_sum>
+		<total_comm_sum>4.0000</total_comm_sum>
+		<total_after_comm_sum>76.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales Monthly_5G</Recharge_type_LYD>
+		<total_all_sum>50.0000</total_all_sum>
+		<total_comm_sum>2.5000</total_comm_sum>
+		<total_after_comm_sum>47.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 25GB libyana net plus NEW</Recharge_type_LYD>
+		<total_all_sum>30.0000</total_all_sum>
+		<total_comm_sum>1.5000</total_comm_sum>
+		<total_after_comm_sum>28.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 400MB</Recharge_type_LYD>
+		<total_all_sum>15.0000</total_all_sum>
+		<total_comm_sum>0.5000</total_comm_sum>
+		<total_after_comm_sum>14.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 5GB NET PLUS NEW</Recharge_type_LYD>
+		<total_all_sum>10.0000</total_all_sum>
+		<total_comm_sum>0.5000</total_comm_sum>
+		<total_after_comm_sum>9.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales 100MB</Recharge_type_LYD>
+		<total_all_sum>5.0000</total_all_sum>
+		<total_comm_sum>0.5000</total_comm_sum>
+		<total_after_comm_sum>4.5000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales Qassitha 10GB</Recharge_type_LYD>
+		<total_all_sum>0.0000</total_all_sum>
+		<total_comm_sum>0.0000</total_comm_sum>
+		<total_after_comm_sum>0.0000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<Recharge_type_LYD>Package Sales Qassitha 15GB</Recharge_type_LYD>
+		<total_all_sum>0.0000</total_all_sum>
+		<total_comm_sum>0.0000</total_comm_sum>
+		<total_after_comm_sum>0.0000</total_after_comm_sum>
+	</ROW>
+</DATA>

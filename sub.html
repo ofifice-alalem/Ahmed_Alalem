@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>تقرير التجار الفرعيين</title>
+  <link rel="stylesheet" href="css/modern-styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-layout">
+    <!-- Mobile Header -->
+    <header class="mobile-header">
+      <div class="brand">
+        <img class="logo" src="logo/logo.png" alt="logo" />
+        <h1>تقرير التجار الفرعيين</h1>
+      </div>
+      <button class="menu-toggle" aria-label="فتح القائمة">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <!-- Page Header -->
+      <div class="search-section">
+        <h2 class="text-xl font-bold text-primary mb-3">👥 تقرير التجار الفرعيين</h2>
+        <div class="search-row">
+          <input id="filter" class="search-input" placeholder="ابحث باسم التاجر الفرعي..." />
+          <div class="text-sm text-gray">عرض <span id="count" class="count-badge">0</span> سجل</div>
+        </div>
+      </div>
+
+      <!-- Totals Section -->
+      <div class="totals-section" id="totals">
+        <div class="totals-grid">
+          <div class="total-item">
+            <div class="total-label">الإجمالي الكلي</div>
+            <div class="total-value" id="total_all">0</div>
+          </div>
+          <div class="total-item">
+            <div class="total-label">إجمالي العمولة</div>
+            <div class="total-value" id="total_comm">0</div>
+          </div>
+          <div class="total-item">
+            <div class="total-label">بعد العمولة</div>
+            <div class="total-value" id="total_after_comm">0</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Table Section -->
+      <div class="table-container">
+        <div class="table-wrapper">
+          <table id="tbl" class="modern-table">
+            <thead></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="js/app.js"></script>
+  <script src="js/modern-ui.js"></script>
+  <script>
+    (async function(){
+      try {
+        const data = await fetch('data/summary_by_sub_dealer.json').then(r=>r.json());
+        
+        // group by sub_dealer
+        const grouped = {};
+        data.forEach(row => {
+          const key = getVal(row, ['SUB_DEALER','﻿SUB_DEALER','sub_dealer','SUB-DEALER']) || 'UNKNOWN';
+          grouped[key] = grouped[key] || [];
+          grouped[key].push(row);
+        });
+
+        const table = document.getElementById('tbl');
+        const thead = table.querySelector('thead');
+        const tbody = table.querySelector('tbody');
+        
+        thead.innerHTML = `
+          <tr>
+            <th>التاجر الفرعي</th>
+            <th>نوع العملية</th>
+            <th>الكمية</th>
+            <th>المبلغ</th>
+            <th>العمولة</th>
+            <th>إجمالي العمولة</th>
+            <th>بعد العمولة</th>
+            <th>الإجمالي</th>
+          </tr>
+        `;
+
+        function render(filterText=''){
+          tbody.innerHTML='';
+          const q = String(filterText || '').trim().toUpperCase();
+          const keys = Object.keys(grouped).filter(k => k.toUpperCase().includes(q));
+          let totalCount = 0;
+          let sum_total_all = 0;
+          let sum_total_comm = 0;
+          let sum_total_after_comm = 0;
+          
+          keys.forEach(k=>{
+            grouped[k].forEach(row=>{
+              const tr = document.createElement('tr');
+              tr.innerHTML = `
+                <td><strong class="text-primary">${escapeHtml(k)}</strong></td>
+                <td>${escapeHtml(getVal(row, ['recharge_type','Recharge type LYD','﻿Recharge type LYD','Recharge type'])||'')}</td>
+                <td class="text-center">${escapeHtml(getVal(row, ['cnt','count'])||'')}</td>
+                <td class="font-bold">${formatTableNumber(getVal(row, ['total_amount_per_row','Total Amount (per row avg)'])||'')}</td>
+                <td class="text-accent">${formatTableNumber(getVal(row, ['commission_per_row','COMMISSION (per row avg)'])||'')}</td>
+                <td class="font-bold text-accent">${formatTableNumber(getVal(row, ['total_comm','Total-Comm'])||'')}</td>
+                <td class="font-bold text-primary">${formatTableNumber(getVal(row, ['total_after_comm','Total-After-Comm'])||'')}</td>
+                <td class="font-bold text-lg">${formatTableNumber(getVal(row, ['total_all','Total'])||'')}</td>
+              `;
+              tbody.appendChild(tr);
+              totalCount++;
+              
+              // accumulate totals
+              sum_total_all += parseNumber(getVal(row, ['total_all','Total'])||'0');
+              sum_total_comm += parseNumber(getVal(row, ['total_comm','Total-Comm'])||'0');
+              sum_total_after_comm += parseNumber(getVal(row, ['total_after_comm','Total-After-Comm'])||'0');
+            });
+          });
+          
+          document.getElementById('count').innerText = totalCount;
+          
+          // display formatted totals
+          document.getElementById('total_all').innerText = formatNumber(sum_total_all);
+          document.getElementById('total_comm').innerText = formatNumber(sum_total_comm);
+          document.getElementById('total_after_comm').innerText = formatNumber(sum_total_after_comm);
+          
+          // Add loading animation
+          AnimationUtils.fadeIn(table, 300);
+        }
+
+        document.getElementById('filter').addEventListener('input', e=> {
+          render(e.target.value);
+        });
+        
+        // Initial render
+        render('');
+        
+        // Update stats cards
+        if (window.modernUI && window.modernUI.statsCards) {
+          const totalDealers = Object.keys(grouped).length;
+          const totalRecords = data.length;
+          
+          window.modernUI.statsCards.updateStats([
+            {
+              title: 'عدد التجار',
+              value: totalDealers,
+              icon: '👥',
+              iconType: 'primary'
+            },
+            {
+              title: 'إجمالي السجلات',
+              value: totalRecords,
+              icon: '📈',
+              iconType: 'accent'
+            }
+          ]);
+        }
+        
+      } catch (error) {
+        console.error('خطأ في تحميل البيانات:', error);
+        document.querySelector('.main-content').innerHTML += `
+          <div class="search-section text-center">
+            <h3 class="text-error">⚠️ خطأ في تحميل البيانات</h3>
+            <p class="text-muted">يرجى التأكد من وجود ملف summary_by_sub_dealer.json</p>
+          </div>
+        `;
+      }
+    })();
+  </script>
+</body>
+</html>

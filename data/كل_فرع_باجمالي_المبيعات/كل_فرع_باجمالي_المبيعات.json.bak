@@ -1,0 +1,110 @@
+[
+	{
+		"SUB_DEALER" : mosrata,
+		"total_all_sum" : 325667.0000,
+		"total_comm_sum" : 34087.9200,
+		"total_after_comm_sum" : 291579.0800
+	},
+	{
+		"SUB_DEALER" : almadar,
+		"total_all_sum" : 157838.0000,
+		"total_comm_sum" : 19864.4000,
+		"total_after_comm_sum" : 137973.6000
+	},
+	{
+		"SUB_DEALER" : sabaha,
+		"total_all_sum" : 142047.0000,
+		"total_comm_sum" : 19125.8900,
+		"total_after_comm_sum" : 122921.1100
+	},
+	{
+		"SUB_DEALER" : Zliten,
+		"total_all_sum" : 140484.0000,
+		"total_comm_sum" : 14289.2500,
+		"total_after_comm_sum" : 126194.7500
+	},
+	{
+		"SUB_DEALER" : Efurn,
+		"total_all_sum" : 113666.0000,
+		"total_comm_sum" : 15349.0300,
+		"total_after_comm_sum" : 98316.9700
+	},
+	{
+		"SUB_DEALER" : Zwara,
+		"total_all_sum" : 107529.0000,
+		"total_comm_sum" : 12761.8800,
+		"total_after_comm_sum" : 94767.1200
+	},
+	{
+		"SUB_DEALER" : Khums,
+		"total_all_sum" : 94298.0000,
+		"total_comm_sum" : 11361.3000,
+		"total_after_comm_sum" : 82936.7000
+	},
+	{
+		"SUB_DEALER" : Eastern Region,
+		"total_all_sum" : 88396.0000,
+		"total_comm_sum" : 11644.0900,
+		"total_after_comm_sum" : 76751.9100
+	},
+	{
+		"SUB_DEALER" : Albayda,
+		"total_all_sum" : 86852.0000,
+		"total_comm_sum" : 13209.0600,
+		"total_after_comm_sum" : 73642.9400
+	},
+	{
+		"SUB_DEALER" : sug aljumea,
+		"total_all_sum" : 84480.0000,
+		"total_comm_sum" : 10129.9700,
+		"total_after_comm_sum" : 74350.0300
+	},
+	{
+		"SUB_DEALER" : Gharyan,
+		"total_all_sum" : 55036.0000,
+		"total_comm_sum" : 8018.3800,
+		"total_after_comm_sum" : 47017.6200
+	},
+	{
+		"SUB_DEALER" : Tajura,
+		"total_all_sum" : 44101.0000,
+		"total_comm_sum" : 6267.0900,
+		"total_after_comm_sum" : 37833.9100
+	},
+	{
+		"SUB_DEALER" : western Region,
+		"total_all_sum" : 43834.0000,
+		"total_comm_sum" : 4259.5400,
+		"total_after_comm_sum" : 39574.4600
+	},
+	{
+		"SUB_DEALER" : qasr bin ghashir,
+		"total_all_sum" : 39347.0000,
+		"total_comm_sum" : 5630.2900,
+		"total_after_comm_sum" : 33716.7100
+	},
+	{
+		"SUB_DEALER" : mamooun,
+		"total_all_sum" : 33234.0000,
+		"total_comm_sum" : 3949.4700,
+		"total_after_comm_sum" : 29284.5300
+	},
+	{
+		"SUB_DEALER" : jinzur,
+		"total_all_sum" : 13517.0000,
+		"total_comm_sum" : 1617.3600,
+		"total_after_comm_sum" : 11899.6400
+	},
+	{
+		"SUB_DEALER" : ALBADEEL,
+		"total_all_sum" : 2840.0000,
+		"total_comm_sum" : 231.3300,
+		"total_after_comm_sum" : 2608.6700
+	},
+	{
+		"SUB_DEALER" : alzintan,
+		"total_all_sum" : 1232.0000,
+		"total_comm_sum" : 203.1500,
+		"total_after_comm_sum" : 1028.8500
+	}
+]

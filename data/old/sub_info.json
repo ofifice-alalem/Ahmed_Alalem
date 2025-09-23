@@ -1,0 +1,4942 @@
+[
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "6",
+    "commission_per_row": "1.00",
+    "total_comm": "6.00",
+    "total_after_comm": "24.00",
+    "total_all": "30.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "3",
+    "commission_per_row": "4.00",
+    "total_comm": "12.00",
+    "total_after_comm": "288.00",
+    "total_all": "300.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "3",
+    "commission_per_row": "0.40",
+    "total_comm": "1.20",
+    "total_after_comm": "28.80",
+    "total_all": "30.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "4",
+    "commission_per_row": "0.70",
+    "total_comm": "2.80",
+    "total_after_comm": "77.20",
+    "total_all": "80.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "4",
+    "commission_per_row": "1.00",
+    "total_comm": "4.00",
+    "total_after_comm": "116.00",
+    "total_all": "120.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "5",
+    "commission_per_row": "2.00",
+    "total_comm": "10.00",
+    "total_after_comm": "240.00",
+    "total_all": "250.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "5",
+    "commission_per_row": "0.15",
+    "total_comm": "0.75",
+    "total_after_comm": "24.25",
+    "total_all": "25.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "8.49",
+    "cnt": "96",
+    "commission_per_row": "1.34",
+    "total_comm": "128.64",
+    "total_after_comm": "686.40",
+    "total_all": "815.04"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "3",
+    "commission_per_row": "3.50",
+    "total_comm": "10.50",
+    "total_after_comm": "199.50",
+    "total_all": "210.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "Package Sales 150GB Libyana NET+",
+    "total_amount_per_row": "100.00",
+    "cnt": "1",
+    "commission_per_row": "5.00",
+    "total_comm": "5.00",
+    "total_after_comm": "95.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "21",
+    "commission_per_row": "1.50",
+    "total_comm": "31.50",
+    "total_after_comm": "598.50",
+    "total_all": "630.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "5",
+    "commission_per_row": "0.50",
+    "total_comm": "2.50",
+    "total_after_comm": "47.50",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "2",
+    "commission_per_row": "1.50",
+    "total_comm": "3.00",
+    "total_after_comm": "67.00",
+    "total_all": "70.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "Package Sales Qassitha 10GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "1",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "Package Sales Qassitha 15GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "32",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "ALBADEEL",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "5.00",
+    "cnt": "26",
+    "commission_per_row": "0.50",
+    "total_comm": "13.00",
+    "total_after_comm": "117.00",
+    "total_all": "130.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "1412",
+    "commission_per_row": "1.50",
+    "total_comm": "2118.00",
+    "total_after_comm": "4942.00",
+    "total_all": "7060.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "1",
+    "commission_per_row": "4.00",
+    "total_comm": "4.00",
+    "total_after_comm": "96.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "45",
+    "commission_per_row": "0.40",
+    "total_comm": "18.00",
+    "total_after_comm": "432.00",
+    "total_all": "450.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "10",
+    "commission_per_row": "0.05",
+    "total_comm": "0.50",
+    "total_after_comm": "9.50",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "11",
+    "commission_per_row": "0.70",
+    "total_comm": "7.70",
+    "total_after_comm": "212.30",
+    "total_all": "220.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "12",
+    "commission_per_row": "0.07",
+    "total_comm": "0.84",
+    "total_after_comm": "23.16",
+    "total_all": "24.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "35",
+    "commission_per_row": "1.00",
+    "total_comm": "35.00",
+    "total_after_comm": "1015.00",
+    "total_all": "1050.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "125",
+    "commission_per_row": "0.10",
+    "total_comm": "12.50",
+    "total_after_comm": "362.50",
+    "total_all": "375.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "11",
+    "commission_per_row": "2.00",
+    "total_comm": "22.00",
+    "total_after_comm": "528.00",
+    "total_all": "550.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "118",
+    "commission_per_row": "0.15",
+    "total_comm": "17.70",
+    "total_after_comm": "572.30",
+    "total_all": "590.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "5.35",
+    "cnt": "7621",
+    "commission_per_row": "1.05",
+    "total_comm": "8002.05",
+    "total_after_comm": "32770.30",
+    "total_all": "40772.35"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "6",
+    "commission_per_row": "3.50",
+    "total_comm": "21.00",
+    "total_after_comm": "399.00",
+    "total_all": "420.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "1",
+    "commission_per_row": "2.00",
+    "total_comm": "2.00",
+    "total_after_comm": "48.00",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "336",
+    "commission_per_row": "1.50",
+    "total_comm": "504.00",
+    "total_after_comm": "9576.00",
+    "total_all": "10080.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "14",
+    "commission_per_row": "0.50",
+    "total_comm": "7.00",
+    "total_after_comm": "133.00",
+    "total_all": "140.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "8",
+    "commission_per_row": "1.00",
+    "total_comm": "8.00",
+    "total_after_comm": "192.00",
+    "total_all": "200.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "222",
+    "commission_per_row": "0.50",
+    "total_comm": "111.00",
+    "total_after_comm": "2109.00",
+    "total_all": "2220.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales 650GB Libyana NET+",
+    "total_amount_per_row": "250.00",
+    "cnt": "1",
+    "commission_per_row": "10.00",
+    "total_comm": "10.00",
+    "total_after_comm": "240.00",
+    "total_all": "250.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "6",
+    "commission_per_row": "1.50",
+    "total_comm": "9.00",
+    "total_after_comm": "201.00",
+    "total_all": "210.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "5",
+    "commission_per_row": "2.00",
+    "total_comm": "10.00",
+    "total_after_comm": "240.00",
+    "total_all": "250.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales Qassitha 10GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "4",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales Qassitha 15GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "55",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "6",
+    "commission_per_row": "0.40",
+    "total_comm": "2.40",
+    "total_after_comm": "57.60",
+    "total_all": "60.00"
+  },
+  {
+    "sub_dealer": "Albayda",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.69",
+    "cnt": "4644",
+    "commission_per_row": "0.50",
+    "total_comm": "2322.00",
+    "total_after_comm": "19458.36",
+    "total_all": "21780.36"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "1591",
+    "commission_per_row": "1.50",
+    "total_comm": "2386.50",
+    "total_after_comm": "5568.50",
+    "total_all": "7955.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "25",
+    "commission_per_row": "4.00",
+    "total_comm": "100.00",
+    "total_after_comm": "2400.00",
+    "total_all": "2500.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "211",
+    "commission_per_row": "0.40",
+    "total_comm": "84.40",
+    "total_after_comm": "2025.60",
+    "total_all": "2110.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "20",
+    "commission_per_row": "0.05",
+    "total_comm": "1.00",
+    "total_after_comm": "19.00",
+    "total_all": "20.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "65",
+    "commission_per_row": "0.70",
+    "total_comm": "45.50",
+    "total_after_comm": "1254.50",
+    "total_all": "1300.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "1",
+    "commission_per_row": "0.07",
+    "total_comm": "0.07",
+    "total_after_comm": "1.93",
+    "total_all": "2.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "118",
+    "commission_per_row": "1.00",
+    "total_comm": "118.00",
+    "total_after_comm": "3422.00",
+    "total_all": "3540.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "22",
+    "commission_per_row": "0.10",
+    "total_comm": "2.20",
+    "total_after_comm": "63.80",
+    "total_all": "66.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "48",
+    "commission_per_row": "2.00",
+    "total_comm": "96.00",
+    "total_after_comm": "2304.00",
+    "total_all": "2400.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "502",
+    "commission_per_row": "0.15",
+    "total_comm": "75.30",
+    "total_after_comm": "2434.70",
+    "total_all": "2510.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "9.06",
+    "cnt": "10014",
+    "commission_per_row": "1.24",
+    "total_comm": "12417.36",
+    "total_after_comm": "78309.48",
+    "total_all": "90726.84"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "1",
+    "commission_per_row": "3.50",
+    "total_comm": "3.50",
+    "total_after_comm": "66.50",
+    "total_all": "70.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "19",
+    "commission_per_row": "2.00",
+    "total_comm": "38.00",
+    "total_after_comm": "912.00",
+    "total_all": "950.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "110",
+    "commission_per_row": "1.50",
+    "total_comm": "165.00",
+    "total_after_comm": "3135.00",
+    "total_all": "3300.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales 4000MB",
+    "total_amount_per_row": "12.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "11.50",
+    "total_all": "12.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "18",
+    "commission_per_row": "0.50",
+    "total_comm": "9.00",
+    "total_after_comm": "171.00",
+    "total_all": "180.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "43",
+    "commission_per_row": "1.00",
+    "total_comm": "43.00",
+    "total_after_comm": "1032.00",
+    "total_all": "1075.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "29",
+    "commission_per_row": "0.50",
+    "total_comm": "14.50",
+    "total_after_comm": "275.50",
+    "total_all": "290.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales 6000MB",
+    "total_amount_per_row": "16.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "15.50",
+    "total_all": "16.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "21",
+    "commission_per_row": "1.50",
+    "total_comm": "31.50",
+    "total_after_comm": "703.50",
+    "total_all": "735.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "4",
+    "commission_per_row": "0.75",
+    "total_comm": "3.00",
+    "total_after_comm": "57.00",
+    "total_all": "60.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "4",
+    "commission_per_row": "1.00",
+    "total_comm": "4.00",
+    "total_after_comm": "96.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "4",
+    "commission_per_row": "2.00",
+    "total_comm": "8.00",
+    "total_after_comm": "192.00",
+    "total_all": "200.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "3",
+    "commission_per_row": "0.50",
+    "total_comm": "1.50",
+    "total_after_comm": "28.50",
+    "total_all": "30.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "2",
+    "commission_per_row": "2.00",
+    "total_comm": "4.00",
+    "total_after_comm": "96.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales Qassitha 10GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "2",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales Qassitha 15GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "1",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "1",
+    "commission_per_row": "0.40",
+    "total_comm": "0.40",
+    "total_after_comm": "9.60",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "Package Sales Unlimited Weekly New",
+    "total_amount_per_row": "60.00",
+    "cnt": "1",
+    "commission_per_row": "3.00",
+    "total_comm": "3.00",
+    "total_after_comm": "57.00",
+    "total_all": "60.00"
+  },
+  {
+    "sub_dealer": "almadar",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.48",
+    "cnt": "8384",
+    "commission_per_row": "0.50",
+    "total_comm": "4192.00",
+    "total_after_comm": "33368.32",
+    "total_all": "37560.32"
+  },
+  {
+    "sub_dealer": "alzintan",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "21",
+    "commission_per_row": "1.50",
+    "total_comm": "31.50",
+    "total_after_comm": "73.50",
+    "total_all": "105.00"
+  },
+  {
+    "sub_dealer": "alzintan",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "1",
+    "commission_per_row": "0.15",
+    "total_comm": "0.15",
+    "total_after_comm": "4.85",
+    "total_all": "5.00"
+  },
+  {
+    "sub_dealer": "alzintan",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "7.11",
+    "cnt": "133",
+    "commission_per_row": "1.12",
+    "total_comm": "148.96",
+    "total_after_comm": "796.67",
+    "total_all": "945.63"
+  },
+  {
+    "sub_dealer": "alzintan",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "3.93",
+    "cnt": "45",
+    "commission_per_row": "0.50",
+    "total_comm": "22.50",
+    "total_after_comm": "154.35",
+    "total_all": "176.85"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "1014",
+    "commission_per_row": "1.50",
+    "total_comm": "1521.00",
+    "total_after_comm": "3549.00",
+    "total_all": "5070.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "7",
+    "commission_per_row": "4.00",
+    "total_comm": "28.00",
+    "total_after_comm": "672.00",
+    "total_all": "700.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "58",
+    "commission_per_row": "0.40",
+    "total_comm": "23.20",
+    "total_after_comm": "556.80",
+    "total_all": "580.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "35",
+    "commission_per_row": "0.70",
+    "total_comm": "24.50",
+    "total_after_comm": "675.50",
+    "total_all": "700.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "4",
+    "commission_per_row": "0.07",
+    "total_comm": "0.28",
+    "total_after_comm": "7.72",
+    "total_all": "8.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "31",
+    "commission_per_row": "1.00",
+    "total_comm": "31.00",
+    "total_after_comm": "899.00",
+    "total_all": "930.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "9",
+    "commission_per_row": "0.10",
+    "total_comm": "0.90",
+    "total_after_comm": "26.10",
+    "total_all": "27.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "eTopup Sale 50000000LYD",
+    "total_amount_per_row": "500.00",
+    "cnt": "3",
+    "commission_per_row": "15.00",
+    "total_comm": "45.00",
+    "total_after_comm": "1455.00",
+    "total_all": "1500.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "24",
+    "commission_per_row": "2.00",
+    "total_comm": "48.00",
+    "total_after_comm": "1152.00",
+    "total_all": "1200.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "154",
+    "commission_per_row": "0.15",
+    "total_comm": "23.10",
+    "total_after_comm": "746.90",
+    "total_all": "770.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "6.89",
+    "cnt": "6122",
+    "commission_per_row": "1.14",
+    "total_comm": "6979.08",
+    "total_after_comm": "35201.50",
+    "total_all": "42180.58"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "9",
+    "commission_per_row": "3.50",
+    "total_comm": "31.50",
+    "total_after_comm": "598.50",
+    "total_all": "630.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "14",
+    "commission_per_row": "2.00",
+    "total_comm": "28.00",
+    "total_after_comm": "672.00",
+    "total_all": "700.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 150GB Libyana NET+",
+    "total_amount_per_row": "100.00",
+    "cnt": "2",
+    "commission_per_row": "5.00",
+    "total_comm": "10.00",
+    "total_after_comm": "190.00",
+    "total_all": "200.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 2000MB",
+    "total_amount_per_row": "8.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "7.50",
+    "total_all": "8.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "292",
+    "commission_per_row": "1.50",
+    "total_comm": "438.00",
+    "total_after_comm": "8322.00",
+    "total_all": "8760.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 4000MB",
+    "total_amount_per_row": "12.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "11.50",
+    "total_all": "12.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "33",
+    "commission_per_row": "0.50",
+    "total_comm": "16.50",
+    "total_after_comm": "313.50",
+    "total_all": "330.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "44",
+    "commission_per_row": "1.00",
+    "total_comm": "44.00",
+    "total_after_comm": "1056.00",
+    "total_all": "1100.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "191",
+    "commission_per_row": "0.50",
+    "total_comm": "95.50",
+    "total_after_comm": "1814.50",
+    "total_all": "1910.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 650GB Libyana NET+",
+    "total_amount_per_row": "250.00",
+    "cnt": "1",
+    "commission_per_row": "10.00",
+    "total_comm": "10.00",
+    "total_after_comm": "240.00",
+    "total_all": "250.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "16",
+    "commission_per_row": "1.50",
+    "total_comm": "24.00",
+    "total_after_comm": "536.00",
+    "total_all": "560.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "3",
+    "commission_per_row": "0.75",
+    "total_comm": "2.25",
+    "total_after_comm": "42.75",
+    "total_all": "45.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "9",
+    "commission_per_row": "1.00",
+    "total_comm": "9.00",
+    "total_after_comm": "216.00",
+    "total_all": "225.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "3",
+    "commission_per_row": "1.50",
+    "total_comm": "4.50",
+    "total_after_comm": "100.50",
+    "total_all": "105.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "3",
+    "commission_per_row": "2.00",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "2",
+    "commission_per_row": "0.50",
+    "total_comm": "1.00",
+    "total_after_comm": "19.00",
+    "total_all": "20.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "Package Sales Qassitha 10GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "16",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "Eastern Region",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.46",
+    "cnt": "4417",
+    "commission_per_row": "0.50",
+    "total_comm": "2208.50",
+    "total_after_comm": "17491.32",
+    "total_all": "19699.82"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "1693",
+    "commission_per_row": "1.50",
+    "total_comm": "2539.50",
+    "total_after_comm": "5925.50",
+    "total_all": "8465.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "6",
+    "commission_per_row": "4.00",
+    "total_comm": "24.00",
+    "total_after_comm": "576.00",
+    "total_all": "600.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "101",
+    "commission_per_row": "0.40",
+    "total_comm": "40.40",
+    "total_after_comm": "969.60",
+    "total_all": "1010.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "2",
+    "commission_per_row": "0.05",
+    "total_comm": "0.10",
+    "total_after_comm": "1.90",
+    "total_all": "2.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "26",
+    "commission_per_row": "0.70",
+    "total_comm": "18.20",
+    "total_after_comm": "501.80",
+    "total_all": "520.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "2",
+    "commission_per_row": "0.07",
+    "total_comm": "0.14",
+    "total_after_comm": "3.86",
+    "total_all": "4.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "26",
+    "commission_per_row": "1.00",
+    "total_comm": "26.00",
+    "total_after_comm": "754.00",
+    "total_all": "780.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "22",
+    "commission_per_row": "0.10",
+    "total_comm": "2.20",
+    "total_after_comm": "63.80",
+    "total_all": "66.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "21",
+    "commission_per_row": "2.00",
+    "total_comm": "42.00",
+    "total_after_comm": "1008.00",
+    "total_all": "1050.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "542",
+    "commission_per_row": "0.15",
+    "total_comm": "81.30",
+    "total_after_comm": "2628.70",
+    "total_all": "2710.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "8.05",
+    "cnt": "7164",
+    "commission_per_row": "1.18",
+    "total_comm": "8453.52",
+    "total_after_comm": "49216.68",
+    "total_all": "57670.20"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "8",
+    "commission_per_row": "3.50",
+    "total_comm": "28.00",
+    "total_after_comm": "532.00",
+    "total_all": "560.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "12",
+    "commission_per_row": "2.00",
+    "total_comm": "24.00",
+    "total_after_comm": "576.00",
+    "total_all": "600.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 2000MB",
+    "total_amount_per_row": "8.00",
+    "cnt": "3",
+    "commission_per_row": "0.50",
+    "total_comm": "1.50",
+    "total_after_comm": "22.50",
+    "total_all": "24.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "73",
+    "commission_per_row": "1.50",
+    "total_comm": "109.50",
+    "total_after_comm": "2080.50",
+    "total_all": "2190.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 4000MB",
+    "total_amount_per_row": "12.00",
+    "cnt": "4",
+    "commission_per_row": "0.50",
+    "total_comm": "2.00",
+    "total_after_comm": "46.00",
+    "total_all": "48.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "13",
+    "commission_per_row": "0.50",
+    "total_comm": "6.50",
+    "total_after_comm": "123.50",
+    "total_all": "130.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "30",
+    "commission_per_row": "1.00",
+    "total_comm": "30.00",
+    "total_after_comm": "720.00",
+    "total_all": "750.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "8",
+    "commission_per_row": "0.50",
+    "total_comm": "4.00",
+    "total_after_comm": "76.00",
+    "total_all": "80.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 5GB NET PLUS NEW",
+    "total_amount_per_row": "10.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "9.50",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 6000MB",
+    "total_amount_per_row": "16.00",
+    "cnt": "5",
+    "commission_per_row": "0.50",
+    "total_comm": "2.50",
+    "total_after_comm": "77.50",
+    "total_all": "80.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "32",
+    "commission_per_row": "1.50",
+    "total_comm": "48.00",
+    "total_after_comm": "1072.00",
+    "total_all": "1120.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "9",
+    "commission_per_row": "0.75",
+    "total_comm": "6.75",
+    "total_after_comm": "128.25",
+    "total_all": "135.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "1",
+    "commission_per_row": "1.00",
+    "total_comm": "1.00",
+    "total_after_comm": "24.00",
+    "total_all": "25.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "2",
+    "commission_per_row": "1.50",
+    "total_comm": "3.00",
+    "total_after_comm": "67.00",
+    "total_all": "70.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "1",
+    "commission_per_row": "2.00",
+    "total_comm": "2.00",
+    "total_after_comm": "48.00",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales Monthly_5G",
+    "total_amount_per_row": "10.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "9.50",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "3",
+    "commission_per_row": "0.50",
+    "total_comm": "1.50",
+    "total_after_comm": "28.50",
+    "total_all": "30.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "3",
+    "commission_per_row": "2.00",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "3",
+    "commission_per_row": "0.40",
+    "total_comm": "1.20",
+    "total_after_comm": "28.80",
+    "total_all": "30.00"
+  },
+  {
+    "sub_dealer": "Efurn",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.49",
+    "cnt": "7724",
+    "commission_per_row": "0.50",
+    "total_comm": "3862.00",
+    "total_after_comm": "30818.76",
+    "total_all": "34680.76"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "816",
+    "commission_per_row": "1.50",
+    "total_comm": "1224.00",
+    "total_after_comm": "2856.00",
+    "total_all": "4080.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "2",
+    "commission_per_row": "4.00",
+    "total_comm": "8.00",
+    "total_after_comm": "192.00",
+    "total_all": "200.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "35",
+    "commission_per_row": "0.40",
+    "total_comm": "14.00",
+    "total_after_comm": "336.00",
+    "total_all": "350.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "9",
+    "commission_per_row": "0.70",
+    "total_comm": "6.30",
+    "total_after_comm": "173.70",
+    "total_all": "180.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "1",
+    "commission_per_row": "0.07",
+    "total_comm": "0.07",
+    "total_after_comm": "1.93",
+    "total_all": "2.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "12",
+    "commission_per_row": "1.00",
+    "total_comm": "12.00",
+    "total_after_comm": "348.00",
+    "total_all": "360.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "8",
+    "commission_per_row": "0.10",
+    "total_comm": "0.80",
+    "total_after_comm": "23.20",
+    "total_all": "24.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "12",
+    "commission_per_row": "2.00",
+    "total_comm": "24.00",
+    "total_after_comm": "576.00",
+    "total_all": "600.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "86",
+    "commission_per_row": "0.15",
+    "total_comm": "12.90",
+    "total_after_comm": "417.10",
+    "total_all": "430.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "6.47",
+    "cnt": "4202",
+    "commission_per_row": "1.09",
+    "total_comm": "4580.18",
+    "total_after_comm": "22606.76",
+    "total_all": "27186.94"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "9",
+    "commission_per_row": "3.50",
+    "total_comm": "31.50",
+    "total_after_comm": "598.50",
+    "total_all": "630.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "1",
+    "commission_per_row": "2.00",
+    "total_comm": "2.00",
+    "total_after_comm": "48.00",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "80",
+    "commission_per_row": "1.50",
+    "total_comm": "120.00",
+    "total_after_comm": "2280.00",
+    "total_all": "2400.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "11",
+    "commission_per_row": "0.50",
+    "total_comm": "5.50",
+    "total_after_comm": "104.50",
+    "total_all": "110.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "12",
+    "commission_per_row": "1.00",
+    "total_comm": "12.00",
+    "total_after_comm": "288.00",
+    "total_all": "300.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "31",
+    "commission_per_row": "0.50",
+    "total_comm": "15.50",
+    "total_after_comm": "294.50",
+    "total_all": "310.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "6",
+    "commission_per_row": "1.50",
+    "total_comm": "9.00",
+    "total_after_comm": "201.00",
+    "total_all": "210.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "2",
+    "commission_per_row": "0.75",
+    "total_comm": "1.50",
+    "total_after_comm": "28.50",
+    "total_all": "30.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "1",
+    "commission_per_row": "1.50",
+    "total_comm": "1.50",
+    "total_after_comm": "33.50",
+    "total_all": "35.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "2",
+    "commission_per_row": "0.50",
+    "total_comm": "1.00",
+    "total_after_comm": "19.00",
+    "total_all": "20.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "1",
+    "commission_per_row": "2.00",
+    "total_comm": "2.00",
+    "total_after_comm": "48.00",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "2",
+    "commission_per_row": "0.40",
+    "total_comm": "0.80",
+    "total_after_comm": "19.20",
+    "total_all": "20.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "Package Sales Unlimited Weekly New",
+    "total_amount_per_row": "60.00",
+    "cnt": "1",
+    "commission_per_row": "3.00",
+    "total_comm": "3.00",
+    "total_after_comm": "57.00",
+    "total_all": "60.00"
+  },
+  {
+    "sub_dealer": "Gharyan",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.53",
+    "cnt": "3841",
+    "commission_per_row": "0.50",
+    "total_comm": "1920.50",
+    "total_after_comm": "15479.23",
+    "total_all": "17399.73"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "114",
+    "commission_per_row": "1.50",
+    "total_comm": "171.00",
+    "total_after_comm": "399.00",
+    "total_all": "570.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "1",
+    "commission_per_row": "4.00",
+    "total_comm": "4.00",
+    "total_after_comm": "96.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "15",
+    "commission_per_row": "0.40",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "3",
+    "commission_per_row": "0.05",
+    "total_comm": "0.15",
+    "total_after_comm": "2.85",
+    "total_all": "3.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "3",
+    "commission_per_row": "0.70",
+    "total_comm": "2.10",
+    "total_after_comm": "57.90",
+    "total_all": "60.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "3",
+    "commission_per_row": "1.00",
+    "total_comm": "3.00",
+    "total_after_comm": "87.00",
+    "total_all": "90.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "1",
+    "commission_per_row": "0.10",
+    "total_comm": "0.10",
+    "total_after_comm": "2.90",
+    "total_all": "3.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "4",
+    "commission_per_row": "2.00",
+    "total_comm": "8.00",
+    "total_after_comm": "192.00",
+    "total_all": "200.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "32",
+    "commission_per_row": "0.15",
+    "total_comm": "4.80",
+    "total_after_comm": "155.20",
+    "total_all": "160.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "10.23",
+    "cnt": "838",
+    "commission_per_row": "1.30",
+    "total_comm": "1089.40",
+    "total_after_comm": "7483.34",
+    "total_all": "8572.74"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "1",
+    "commission_per_row": "3.50",
+    "total_comm": "3.50",
+    "total_after_comm": "66.50",
+    "total_all": "70.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "3",
+    "commission_per_row": "2.00",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "8",
+    "commission_per_row": "1.50",
+    "total_comm": "12.00",
+    "total_after_comm": "228.00",
+    "total_all": "240.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "17",
+    "commission_per_row": "0.50",
+    "total_comm": "8.50",
+    "total_after_comm": "161.50",
+    "total_all": "170.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "7",
+    "commission_per_row": "1.00",
+    "total_comm": "7.00",
+    "total_after_comm": "168.00",
+    "total_all": "175.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "1",
+    "commission_per_row": "1.50",
+    "total_comm": "1.50",
+    "total_after_comm": "33.50",
+    "total_all": "35.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "2",
+    "commission_per_row": "0.75",
+    "total_comm": "1.50",
+    "total_after_comm": "28.50",
+    "total_all": "30.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "1",
+    "commission_per_row": "1.00",
+    "total_comm": "1.00",
+    "total_after_comm": "24.00",
+    "total_all": "25.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "1",
+    "commission_per_row": "1.50",
+    "total_comm": "1.50",
+    "total_after_comm": "33.50",
+    "total_all": "35.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "2",
+    "commission_per_row": "2.00",
+    "total_comm": "4.00",
+    "total_after_comm": "96.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "2",
+    "commission_per_row": "0.50",
+    "total_comm": "1.00",
+    "total_after_comm": "19.00",
+    "total_all": "20.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "Package Sales Qassitha 10GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "3",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "jinzur",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.58",
+    "cnt": "559",
+    "commission_per_row": "0.50",
+    "total_comm": "279.50",
+    "total_after_comm": "2280.72",
+    "total_all": "2560.22"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "1095",
+    "commission_per_row": "1.50",
+    "total_comm": "1642.50",
+    "total_after_comm": "3832.50",
+    "total_all": "5475.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "9",
+    "commission_per_row": "4.00",
+    "total_comm": "36.00",
+    "total_after_comm": "864.00",
+    "total_all": "900.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "170",
+    "commission_per_row": "0.40",
+    "total_comm": "68.00",
+    "total_after_comm": "1632.00",
+    "total_all": "1700.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "6",
+    "commission_per_row": "0.05",
+    "total_comm": "0.30",
+    "total_after_comm": "5.70",
+    "total_all": "6.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "52",
+    "commission_per_row": "0.70",
+    "total_comm": "36.40",
+    "total_after_comm": "1003.60",
+    "total_all": "1040.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "2",
+    "commission_per_row": "0.07",
+    "total_comm": "0.14",
+    "total_after_comm": "3.86",
+    "total_all": "4.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "55",
+    "commission_per_row": "1.00",
+    "total_comm": "55.00",
+    "total_after_comm": "1595.00",
+    "total_all": "1650.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "46",
+    "commission_per_row": "0.10",
+    "total_comm": "4.60",
+    "total_after_comm": "133.40",
+    "total_all": "138.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "eTopup Sale 35000000LYD",
+    "total_amount_per_row": "350.00",
+    "cnt": "2",
+    "commission_per_row": "10.50",
+    "total_comm": "21.00",
+    "total_after_comm": "679.00",
+    "total_all": "700.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "35",
+    "commission_per_row": "2.00",
+    "total_comm": "70.00",
+    "total_after_comm": "1680.00",
+    "total_all": "1750.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "438",
+    "commission_per_row": "0.15",
+    "total_comm": "65.70",
+    "total_after_comm": "2124.30",
+    "total_all": "2190.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "6.92",
+    "cnt": "5557",
+    "commission_per_row": "1.12",
+    "total_comm": "6223.84",
+    "total_after_comm": "32230.60",
+    "total_all": "38454.44"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "48",
+    "commission_per_row": "3.50",
+    "total_comm": "168.00",
+    "total_after_comm": "3192.00",
+    "total_all": "3360.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "52",
+    "commission_per_row": "2.00",
+    "total_comm": "104.00",
+    "total_after_comm": "2496.00",
+    "total_all": "2600.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 2000MB",
+    "total_amount_per_row": "8.00",
+    "cnt": "2",
+    "commission_per_row": "0.50",
+    "total_comm": "1.00",
+    "total_after_comm": "15.00",
+    "total_all": "16.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 250GB Libyana NET+",
+    "total_amount_per_row": "150.00",
+    "cnt": "2",
+    "commission_per_row": "6.00",
+    "total_comm": "12.00",
+    "total_after_comm": "288.00",
+    "total_all": "300.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "230",
+    "commission_per_row": "1.50",
+    "total_comm": "345.00",
+    "total_after_comm": "6555.00",
+    "total_all": "6900.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 4000MB",
+    "total_amount_per_row": "12.00",
+    "cnt": "12",
+    "commission_per_row": "0.50",
+    "total_comm": "6.00",
+    "total_after_comm": "138.00",
+    "total_all": "144.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "44",
+    "commission_per_row": "0.50",
+    "total_comm": "22.00",
+    "total_after_comm": "418.00",
+    "total_all": "440.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "72",
+    "commission_per_row": "1.00",
+    "total_comm": "72.00",
+    "total_after_comm": "1728.00",
+    "total_all": "1800.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "41",
+    "commission_per_row": "0.50",
+    "total_comm": "20.50",
+    "total_after_comm": "389.50",
+    "total_all": "410.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 6000MB",
+    "total_amount_per_row": "16.00",
+    "cnt": "19",
+    "commission_per_row": "0.50",
+    "total_comm": "9.50",
+    "total_after_comm": "294.50",
+    "total_all": "304.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 650GB Libyana NET+",
+    "total_amount_per_row": "250.00",
+    "cnt": "1",
+    "commission_per_row": "10.00",
+    "total_comm": "10.00",
+    "total_after_comm": "240.00",
+    "total_all": "250.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "70",
+    "commission_per_row": "1.50",
+    "total_comm": "105.00",
+    "total_after_comm": "2345.00",
+    "total_all": "2450.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 800MB",
+    "total_amount_per_row": "4.00",
+    "cnt": "3",
+    "commission_per_row": "0.20",
+    "total_comm": "0.60",
+    "total_after_comm": "11.40",
+    "total_all": "12.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "29",
+    "commission_per_row": "0.75",
+    "total_comm": "21.75",
+    "total_after_comm": "413.25",
+    "total_all": "435.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "12",
+    "commission_per_row": "1.00",
+    "total_comm": "12.00",
+    "total_after_comm": "288.00",
+    "total_all": "300.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "9",
+    "commission_per_row": "1.50",
+    "total_comm": "13.50",
+    "total_after_comm": "301.50",
+    "total_all": "315.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "3",
+    "commission_per_row": "2.00",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "5",
+    "commission_per_row": "0.50",
+    "total_comm": "2.50",
+    "total_after_comm": "47.50",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "5",
+    "commission_per_row": "2.00",
+    "total_comm": "10.00",
+    "total_after_comm": "240.00",
+    "total_all": "250.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "7",
+    "commission_per_row": "0.40",
+    "total_comm": "2.80",
+    "total_after_comm": "67.20",
+    "total_all": "70.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "Package Sales Unlimited Weekly New",
+    "total_amount_per_row": "60.00",
+    "cnt": "1",
+    "commission_per_row": "3.00",
+    "total_comm": "3.00",
+    "total_after_comm": "57.00",
+    "total_all": "60.00"
+  },
+  {
+    "sub_dealer": "Khums",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.51",
+    "cnt": "4359",
+    "commission_per_row": "0.50",
+    "total_comm": "2179.50",
+    "total_after_comm": "17479.59",
+    "total_all": "19659.09"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "342",
+    "commission_per_row": "1.50",
+    "total_comm": "513.00",
+    "total_after_comm": "1197.00",
+    "total_all": "1710.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "6",
+    "commission_per_row": "4.00",
+    "total_comm": "24.00",
+    "total_after_comm": "576.00",
+    "total_all": "600.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "102",
+    "commission_per_row": "0.40",
+    "total_comm": "40.80",
+    "total_after_comm": "979.20",
+    "total_all": "1020.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "2",
+    "commission_per_row": "0.05",
+    "total_comm": "0.10",
+    "total_after_comm": "1.90",
+    "total_all": "2.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "33",
+    "commission_per_row": "0.70",
+    "total_comm": "23.10",
+    "total_after_comm": "636.90",
+    "total_all": "660.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "1",
+    "commission_per_row": "0.07",
+    "total_comm": "0.07",
+    "total_after_comm": "1.93",
+    "total_all": "2.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "22",
+    "commission_per_row": "1.00",
+    "total_comm": "22.00",
+    "total_after_comm": "638.00",
+    "total_all": "660.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "9",
+    "commission_per_row": "0.10",
+    "total_comm": "0.90",
+    "total_after_comm": "26.10",
+    "total_all": "27.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "14",
+    "commission_per_row": "2.00",
+    "total_comm": "28.00",
+    "total_after_comm": "672.00",
+    "total_all": "700.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "192",
+    "commission_per_row": "0.15",
+    "total_comm": "28.80",
+    "total_after_comm": "931.20",
+    "total_all": "960.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "7.93",
+    "cnt": "1929",
+    "commission_per_row": "1.17",
+    "total_comm": "2256.93",
+    "total_after_comm": "13040.04",
+    "total_all": "15296.97"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "9",
+    "commission_per_row": "3.50",
+    "total_comm": "31.50",
+    "total_after_comm": "598.50",
+    "total_all": "630.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "22",
+    "commission_per_row": "2.00",
+    "total_comm": "44.00",
+    "total_after_comm": "1056.00",
+    "total_all": "1100.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "9",
+    "commission_per_row": "1.50",
+    "total_comm": "13.50",
+    "total_after_comm": "256.50",
+    "total_all": "270.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "48",
+    "commission_per_row": "0.50",
+    "total_comm": "24.00",
+    "total_after_comm": "456.00",
+    "total_all": "480.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "27",
+    "commission_per_row": "1.00",
+    "total_comm": "27.00",
+    "total_after_comm": "648.00",
+    "total_all": "675.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "9.50",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "13",
+    "commission_per_row": "1.50",
+    "total_comm": "19.50",
+    "total_after_comm": "435.50",
+    "total_all": "455.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "2",
+    "commission_per_row": "0.75",
+    "total_comm": "1.50",
+    "total_after_comm": "28.50",
+    "total_all": "30.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "3",
+    "commission_per_row": "1.00",
+    "total_comm": "3.00",
+    "total_after_comm": "72.00",
+    "total_all": "75.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "1",
+    "commission_per_row": "2.00",
+    "total_comm": "2.00",
+    "total_after_comm": "48.00",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales Monthly_5G",
+    "total_amount_per_row": "10.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "9.50",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "7",
+    "commission_per_row": "0.50",
+    "total_comm": "3.50",
+    "total_after_comm": "66.50",
+    "total_all": "70.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "1",
+    "commission_per_row": "2.00",
+    "total_comm": "2.00",
+    "total_after_comm": "48.00",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "mamooun",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.58",
+    "cnt": "1677",
+    "commission_per_row": "0.50",
+    "total_comm": "838.50",
+    "total_after_comm": "6842.16",
+    "total_all": "7680.66"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "2418",
+    "commission_per_row": "1.50",
+    "total_comm": "3627.00",
+    "total_after_comm": "8463.00",
+    "total_all": "12090.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "103",
+    "commission_per_row": "4.00",
+    "total_comm": "412.00",
+    "total_after_comm": "9888.00",
+    "total_all": "10300.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "464",
+    "commission_per_row": "0.40",
+    "total_comm": "185.60",
+    "total_after_comm": "4454.40",
+    "total_all": "4640.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "14",
+    "commission_per_row": "0.05",
+    "total_comm": "0.70",
+    "total_after_comm": "13.30",
+    "total_all": "14.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "341",
+    "commission_per_row": "0.70",
+    "total_comm": "238.70",
+    "total_after_comm": "6581.30",
+    "total_all": "6820.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "14",
+    "commission_per_row": "0.07",
+    "total_comm": "0.98",
+    "total_after_comm": "27.02",
+    "total_all": "28.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "218",
+    "commission_per_row": "1.00",
+    "total_comm": "218.00",
+    "total_after_comm": "6322.00",
+    "total_all": "6540.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "41",
+    "commission_per_row": "0.10",
+    "total_comm": "4.10",
+    "total_after_comm": "118.90",
+    "total_all": "123.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 35000000LYD",
+    "total_amount_per_row": "350.00",
+    "cnt": "5",
+    "commission_per_row": "10.50",
+    "total_comm": "52.50",
+    "total_after_comm": "1697.50",
+    "total_all": "1750.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 50000000LYD",
+    "total_amount_per_row": "500.00",
+    "cnt": "3",
+    "commission_per_row": "15.00",
+    "total_comm": "45.00",
+    "total_after_comm": "1455.00",
+    "total_all": "1500.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "248",
+    "commission_per_row": "2.00",
+    "total_comm": "496.00",
+    "total_after_comm": "11904.00",
+    "total_all": "12400.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "849",
+    "commission_per_row": "0.15",
+    "total_comm": "127.35",
+    "total_after_comm": "4117.65",
+    "total_all": "4245.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "7.75",
+    "cnt": "16316",
+    "commission_per_row": "1.19",
+    "total_comm": "19416.04",
+    "total_after_comm": "107032.96",
+    "total_all": "126449.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "276",
+    "commission_per_row": "3.50",
+    "total_comm": "966.00",
+    "total_after_comm": "18354.00",
+    "total_all": "19320.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 100MB",
+    "total_amount_per_row": "1.00",
+    "cnt": "2",
+    "commission_per_row": "0.10",
+    "total_comm": "0.20",
+    "total_after_comm": "1.80",
+    "total_all": "2.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "191",
+    "commission_per_row": "2.00",
+    "total_comm": "382.00",
+    "total_after_comm": "9168.00",
+    "total_all": "9550.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 150GB Libyana NET+",
+    "total_amount_per_row": "100.00",
+    "cnt": "29",
+    "commission_per_row": "5.00",
+    "total_comm": "145.00",
+    "total_after_comm": "2755.00",
+    "total_all": "2900.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 2000MB",
+    "total_amount_per_row": "8.00",
+    "cnt": "5",
+    "commission_per_row": "0.50",
+    "total_comm": "2.50",
+    "total_after_comm": "37.50",
+    "total_all": "40.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 250GB Libyana NET+",
+    "total_amount_per_row": "150.00",
+    "cnt": "26",
+    "commission_per_row": "6.00",
+    "total_comm": "156.00",
+    "total_after_comm": "3744.00",
+    "total_all": "3900.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 25GB libyana net plus NEW",
+    "total_amount_per_row": "30.00",
+    "cnt": "1",
+    "commission_per_row": "1.50",
+    "total_comm": "1.50",
+    "total_after_comm": "28.50",
+    "total_all": "30.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "1087",
+    "commission_per_row": "1.50",
+    "total_comm": "1630.50",
+    "total_after_comm": "30979.50",
+    "total_all": "32610.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 4000MB",
+    "total_amount_per_row": "12.00",
+    "cnt": "6",
+    "commission_per_row": "0.50",
+    "total_comm": "3.00",
+    "total_after_comm": "69.00",
+    "total_all": "72.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 400MB",
+    "total_amount_per_row": "3.00",
+    "cnt": "1",
+    "commission_per_row": "0.10",
+    "total_comm": "0.10",
+    "total_after_comm": "2.90",
+    "total_all": "3.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "127",
+    "commission_per_row": "0.50",
+    "total_comm": "63.50",
+    "total_after_comm": "1206.50",
+    "total_all": "1270.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "248",
+    "commission_per_row": "1.00",
+    "total_comm": "248.00",
+    "total_after_comm": "5952.00",
+    "total_all": "6200.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "372",
+    "commission_per_row": "0.50",
+    "total_comm": "186.00",
+    "total_after_comm": "3534.00",
+    "total_all": "3720.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 6000MB",
+    "total_amount_per_row": "16.00",
+    "cnt": "2",
+    "commission_per_row": "0.50",
+    "total_comm": "1.00",
+    "total_after_comm": "31.00",
+    "total_all": "32.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "258",
+    "commission_per_row": "1.50",
+    "total_comm": "387.00",
+    "total_after_comm": "8643.00",
+    "total_all": "9030.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 800MB",
+    "total_amount_per_row": "4.00",
+    "cnt": "2",
+    "commission_per_row": "0.20",
+    "total_comm": "0.40",
+    "total_after_comm": "7.60",
+    "total_all": "8.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "45",
+    "commission_per_row": "0.75",
+    "total_comm": "33.75",
+    "total_after_comm": "641.25",
+    "total_all": "675.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales Monthly 50G",
+    "total_amount_per_row": "50.00",
+    "cnt": "3",
+    "commission_per_row": "2.00",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "25",
+    "commission_per_row": "1.00",
+    "total_comm": "25.00",
+    "total_after_comm": "600.00",
+    "total_all": "625.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "30",
+    "commission_per_row": "1.50",
+    "total_comm": "45.00",
+    "total_after_comm": "1005.00",
+    "total_all": "1050.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "24",
+    "commission_per_row": "2.00",
+    "total_comm": "48.00",
+    "total_after_comm": "1152.00",
+    "total_all": "1200.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales Monthly_5G",
+    "total_amount_per_row": "10.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "9.50",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "17",
+    "commission_per_row": "0.50",
+    "total_comm": "8.50",
+    "total_after_comm": "161.50",
+    "total_all": "170.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "20",
+    "commission_per_row": "2.00",
+    "total_comm": "40.00",
+    "total_after_comm": "960.00",
+    "total_all": "1000.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales Qassitha 10GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "9",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales Qassitha 15GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "9",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "15",
+    "commission_per_row": "0.40",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "Package Sales Unlimited Weekly New",
+    "total_amount_per_row": "60.00",
+    "cnt": "2",
+    "commission_per_row": "3.00",
+    "total_comm": "6.00",
+    "total_after_comm": "114.00",
+    "total_all": "120.00"
+  },
+  {
+    "sub_dealer": "mosrata",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.60",
+    "cnt": "9760",
+    "commission_per_row": "0.50",
+    "total_comm": "4880.00",
+    "total_after_comm": "40016.00",
+    "total_all": "44896.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "558",
+    "commission_per_row": "1.50",
+    "total_comm": "837.00",
+    "total_after_comm": "1953.00",
+    "total_all": "2790.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "3",
+    "commission_per_row": "4.00",
+    "total_comm": "12.00",
+    "total_after_comm": "288.00",
+    "total_all": "300.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "69",
+    "commission_per_row": "0.40",
+    "total_comm": "27.60",
+    "total_after_comm": "662.40",
+    "total_all": "690.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "2",
+    "commission_per_row": "0.05",
+    "total_comm": "0.10",
+    "total_after_comm": "1.90",
+    "total_all": "2.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "12",
+    "commission_per_row": "0.70",
+    "total_comm": "8.40",
+    "total_after_comm": "231.60",
+    "total_all": "240.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "3",
+    "commission_per_row": "0.07",
+    "total_comm": "0.21",
+    "total_after_comm": "5.79",
+    "total_all": "6.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "4",
+    "commission_per_row": "1.00",
+    "total_comm": "4.00",
+    "total_after_comm": "116.00",
+    "total_all": "120.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "37",
+    "commission_per_row": "0.10",
+    "total_comm": "3.70",
+    "total_after_comm": "107.30",
+    "total_all": "111.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "7",
+    "commission_per_row": "2.00",
+    "total_comm": "14.00",
+    "total_after_comm": "336.00",
+    "total_all": "350.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "155",
+    "commission_per_row": "0.15",
+    "total_comm": "23.25",
+    "total_after_comm": "751.75",
+    "total_all": "775.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "6.19",
+    "cnt": "2976",
+    "commission_per_row": "1.08",
+    "total_comm": "3214.08",
+    "total_after_comm": "15207.36",
+    "total_all": "18421.44"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "5",
+    "commission_per_row": "3.50",
+    "total_comm": "17.50",
+    "total_after_comm": "332.50",
+    "total_all": "350.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "4",
+    "commission_per_row": "2.00",
+    "total_comm": "8.00",
+    "total_after_comm": "192.00",
+    "total_all": "200.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 2000MB",
+    "total_amount_per_row": "8.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "7.50",
+    "total_all": "8.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "92",
+    "commission_per_row": "1.50",
+    "total_comm": "138.00",
+    "total_after_comm": "2622.00",
+    "total_all": "2760.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 400MB",
+    "total_amount_per_row": "3.00",
+    "cnt": "1",
+    "commission_per_row": "0.10",
+    "total_comm": "0.10",
+    "total_after_comm": "2.90",
+    "total_all": "3.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "2",
+    "commission_per_row": "0.50",
+    "total_comm": "1.00",
+    "total_after_comm": "19.00",
+    "total_all": "20.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "10",
+    "commission_per_row": "1.00",
+    "total_comm": "10.00",
+    "total_after_comm": "240.00",
+    "total_all": "250.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "34",
+    "commission_per_row": "0.50",
+    "total_comm": "17.00",
+    "total_after_comm": "323.00",
+    "total_all": "340.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "3",
+    "commission_per_row": "1.50",
+    "total_comm": "4.50",
+    "total_after_comm": "100.50",
+    "total_all": "105.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 800MB",
+    "total_amount_per_row": "4.00",
+    "cnt": "1",
+    "commission_per_row": "0.20",
+    "total_comm": "0.20",
+    "total_after_comm": "3.80",
+    "total_all": "4.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "4",
+    "commission_per_row": "0.75",
+    "total_comm": "3.00",
+    "total_after_comm": "57.00",
+    "total_all": "60.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "1",
+    "commission_per_row": "1.00",
+    "total_comm": "1.00",
+    "total_after_comm": "24.00",
+    "total_all": "25.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "9.50",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "1",
+    "commission_per_row": "2.00",
+    "total_comm": "2.00",
+    "total_after_comm": "48.00",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "qasr bin ghashir",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.41",
+    "cnt": "2578",
+    "commission_per_row": "0.50",
+    "total_comm": "1289.00",
+    "total_after_comm": "10079.98",
+    "total_all": "11368.98"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "1486",
+    "commission_per_row": "1.50",
+    "total_comm": "2229.00",
+    "total_after_comm": "5201.00",
+    "total_all": "7430.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "10",
+    "commission_per_row": "4.00",
+    "total_comm": "40.00",
+    "total_after_comm": "960.00",
+    "total_all": "1000.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "347",
+    "commission_per_row": "0.40",
+    "total_comm": "138.80",
+    "total_after_comm": "3331.20",
+    "total_all": "3470.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "17",
+    "commission_per_row": "0.05",
+    "total_comm": "0.85",
+    "total_after_comm": "16.15",
+    "total_all": "17.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "103",
+    "commission_per_row": "0.70",
+    "total_comm": "72.10",
+    "total_after_comm": "1987.90",
+    "total_all": "2060.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "24",
+    "commission_per_row": "0.07",
+    "total_comm": "1.68",
+    "total_after_comm": "46.32",
+    "total_all": "48.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "127",
+    "commission_per_row": "1.00",
+    "total_comm": "127.00",
+    "total_after_comm": "3683.00",
+    "total_all": "3810.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "85",
+    "commission_per_row": "0.10",
+    "total_comm": "8.50",
+    "total_after_comm": "246.50",
+    "total_all": "255.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "38",
+    "commission_per_row": "2.00",
+    "total_comm": "76.00",
+    "total_after_comm": "1824.00",
+    "total_all": "1900.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "715",
+    "commission_per_row": "0.15",
+    "total_comm": "107.25",
+    "total_after_comm": "3467.75",
+    "total_all": "3575.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "6.17",
+    "cnt": "10250",
+    "commission_per_row": "1.07",
+    "total_comm": "10967.50",
+    "total_after_comm": "52275.00",
+    "total_all": "63242.50"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "6",
+    "commission_per_row": "3.50",
+    "total_comm": "21.00",
+    "total_after_comm": "399.00",
+    "total_all": "420.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 100MB",
+    "total_amount_per_row": "1.00",
+    "cnt": "1",
+    "commission_per_row": "0.10",
+    "total_comm": "0.10",
+    "total_after_comm": "0.90",
+    "total_all": "1.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "23",
+    "commission_per_row": "2.00",
+    "total_comm": "46.00",
+    "total_after_comm": "1104.00",
+    "total_all": "1150.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 2000MB",
+    "total_amount_per_row": "8.00",
+    "cnt": "3",
+    "commission_per_row": "0.50",
+    "total_comm": "1.50",
+    "total_after_comm": "22.50",
+    "total_all": "24.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "44",
+    "commission_per_row": "1.50",
+    "total_comm": "66.00",
+    "total_after_comm": "1254.00",
+    "total_all": "1320.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 4000MB",
+    "total_amount_per_row": "12.00",
+    "cnt": "4",
+    "commission_per_row": "0.50",
+    "total_comm": "2.00",
+    "total_after_comm": "46.00",
+    "total_all": "48.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "32",
+    "commission_per_row": "0.50",
+    "total_comm": "16.00",
+    "total_after_comm": "304.00",
+    "total_all": "320.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "59",
+    "commission_per_row": "1.00",
+    "total_comm": "59.00",
+    "total_after_comm": "1416.00",
+    "total_all": "1475.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "75",
+    "commission_per_row": "0.50",
+    "total_comm": "37.50",
+    "total_after_comm": "712.50",
+    "total_all": "750.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 6000MB",
+    "total_amount_per_row": "16.00",
+    "cnt": "3",
+    "commission_per_row": "0.50",
+    "total_comm": "1.50",
+    "total_after_comm": "46.50",
+    "total_all": "48.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "73",
+    "commission_per_row": "1.50",
+    "total_comm": "109.50",
+    "total_after_comm": "2445.50",
+    "total_all": "2555.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 800MB",
+    "total_amount_per_row": "4.00",
+    "cnt": "7",
+    "commission_per_row": "0.20",
+    "total_comm": "1.40",
+    "total_after_comm": "26.60",
+    "total_all": "28.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "9",
+    "commission_per_row": "0.75",
+    "total_comm": "6.75",
+    "total_after_comm": "128.25",
+    "total_all": "135.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "13",
+    "commission_per_row": "1.00",
+    "total_comm": "13.00",
+    "total_after_comm": "312.00",
+    "total_all": "325.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "5",
+    "commission_per_row": "1.50",
+    "total_comm": "7.50",
+    "total_after_comm": "167.50",
+    "total_all": "175.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "3",
+    "commission_per_row": "0.50",
+    "total_comm": "1.50",
+    "total_after_comm": "28.50",
+    "total_all": "30.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "1",
+    "commission_per_row": "2.00",
+    "total_comm": "2.00",
+    "total_after_comm": "48.00",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales Qassitha 10GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "3",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales Qassitha 15GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "12",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "8",
+    "commission_per_row": "0.40",
+    "total_comm": "3.20",
+    "total_after_comm": "76.80",
+    "total_all": "80.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "Package Sales Unlimited Weekly New",
+    "total_amount_per_row": "60.00",
+    "cnt": "2",
+    "commission_per_row": "3.00",
+    "total_comm": "6.00",
+    "total_after_comm": "114.00",
+    "total_all": "120.00"
+  },
+  {
+    "sub_dealer": "sabaha",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.69",
+    "cnt": "9858",
+    "commission_per_row": "0.50",
+    "total_comm": "4929.00",
+    "total_after_comm": "41305.02",
+    "total_all": "46234.02"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "886",
+    "commission_per_row": "1.50",
+    "total_comm": "1329.00",
+    "total_after_comm": "3101.00",
+    "total_all": "4430.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "14",
+    "commission_per_row": "4.00",
+    "total_comm": "56.00",
+    "total_after_comm": "1344.00",
+    "total_all": "1400.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "115",
+    "commission_per_row": "0.40",
+    "total_comm": "46.00",
+    "total_after_comm": "1104.00",
+    "total_all": "1150.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "5",
+    "commission_per_row": "0.05",
+    "total_comm": "0.25",
+    "total_after_comm": "4.75",
+    "total_all": "5.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "38",
+    "commission_per_row": "0.70",
+    "total_comm": "26.60",
+    "total_after_comm": "733.40",
+    "total_all": "760.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "3",
+    "commission_per_row": "0.07",
+    "total_comm": "0.21",
+    "total_after_comm": "5.79",
+    "total_all": "6.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "48",
+    "commission_per_row": "1.00",
+    "total_comm": "48.00",
+    "total_after_comm": "1392.00",
+    "total_all": "1440.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "23",
+    "commission_per_row": "0.10",
+    "total_comm": "2.30",
+    "total_after_comm": "66.70",
+    "total_all": "69.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 35000000LYD",
+    "total_amount_per_row": "350.00",
+    "cnt": "1",
+    "commission_per_row": "10.50",
+    "total_comm": "10.50",
+    "total_after_comm": "339.50",
+    "total_all": "350.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 50000000LYD",
+    "total_amount_per_row": "500.00",
+    "cnt": "1",
+    "commission_per_row": "15.00",
+    "total_comm": "15.00",
+    "total_after_comm": "485.00",
+    "total_all": "500.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "21",
+    "commission_per_row": "2.00",
+    "total_comm": "42.00",
+    "total_after_comm": "1008.00",
+    "total_all": "1050.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "352",
+    "commission_per_row": "0.15",
+    "total_comm": "52.80",
+    "total_after_comm": "1707.20",
+    "total_all": "1760.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "8.51",
+    "cnt": "4897",
+    "commission_per_row": "1.21",
+    "total_comm": "5925.37",
+    "total_after_comm": "35748.10",
+    "total_all": "41673.47"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "12",
+    "commission_per_row": "3.50",
+    "total_comm": "42.00",
+    "total_after_comm": "798.00",
+    "total_all": "840.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "31",
+    "commission_per_row": "2.00",
+    "total_comm": "62.00",
+    "total_after_comm": "1488.00",
+    "total_all": "1550.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales 2000MB",
+    "total_amount_per_row": "8.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "7.50",
+    "total_all": "8.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales 250GB Libyana NET+",
+    "total_amount_per_row": "150.00",
+    "cnt": "1",
+    "commission_per_row": "6.00",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "98",
+    "commission_per_row": "1.50",
+    "total_comm": "147.00",
+    "total_after_comm": "2793.00",
+    "total_all": "2940.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "41",
+    "commission_per_row": "0.50",
+    "total_comm": "20.50",
+    "total_after_comm": "389.50",
+    "total_all": "410.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "58",
+    "commission_per_row": "1.00",
+    "total_comm": "58.00",
+    "total_after_comm": "1392.00",
+    "total_all": "1450.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "45",
+    "commission_per_row": "0.50",
+    "total_comm": "22.50",
+    "total_after_comm": "427.50",
+    "total_all": "450.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "64",
+    "commission_per_row": "1.50",
+    "total_comm": "96.00",
+    "total_after_comm": "2144.00",
+    "total_all": "2240.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "10",
+    "commission_per_row": "0.75",
+    "total_comm": "7.50",
+    "total_after_comm": "142.50",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "13",
+    "commission_per_row": "1.00",
+    "total_comm": "13.00",
+    "total_after_comm": "312.00",
+    "total_all": "325.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "15",
+    "commission_per_row": "1.50",
+    "total_comm": "22.50",
+    "total_after_comm": "502.50",
+    "total_all": "525.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "4",
+    "commission_per_row": "2.00",
+    "total_comm": "8.00",
+    "total_after_comm": "192.00",
+    "total_all": "200.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales Monthly_5G",
+    "total_amount_per_row": "10.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "9.50",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "10",
+    "commission_per_row": "0.50",
+    "total_comm": "5.00",
+    "total_after_comm": "95.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "3",
+    "commission_per_row": "2.00",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales Qassitha 15GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "9",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "2",
+    "commission_per_row": "0.40",
+    "total_comm": "0.80",
+    "total_after_comm": "19.20",
+    "total_all": "20.00"
+  },
+  {
+    "sub_dealer": "sug aljumea",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.50",
+    "cnt": "4079",
+    "commission_per_row": "0.50",
+    "total_comm": "2039.50",
+    "total_after_comm": "16316.00",
+    "total_all": "18355.50"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "468",
+    "commission_per_row": "1.50",
+    "total_comm": "702.00",
+    "total_after_comm": "1638.00",
+    "total_all": "2340.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "1",
+    "commission_per_row": "4.00",
+    "total_comm": "4.00",
+    "total_after_comm": "96.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "41",
+    "commission_per_row": "0.40",
+    "total_comm": "16.40",
+    "total_after_comm": "393.60",
+    "total_all": "410.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "1",
+    "commission_per_row": "0.05",
+    "total_comm": "0.05",
+    "total_after_comm": "0.95",
+    "total_all": "1.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "9",
+    "commission_per_row": "0.70",
+    "total_comm": "6.30",
+    "total_after_comm": "173.70",
+    "total_all": "180.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "3",
+    "commission_per_row": "0.07",
+    "total_comm": "0.21",
+    "total_after_comm": "5.79",
+    "total_all": "6.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "16",
+    "commission_per_row": "1.00",
+    "total_comm": "16.00",
+    "total_after_comm": "464.00",
+    "total_all": "480.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "32",
+    "commission_per_row": "0.10",
+    "total_comm": "3.20",
+    "total_after_comm": "92.80",
+    "total_all": "96.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "5",
+    "commission_per_row": "2.00",
+    "total_comm": "10.00",
+    "total_after_comm": "240.00",
+    "total_all": "250.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "95",
+    "commission_per_row": "0.15",
+    "total_comm": "14.25",
+    "total_after_comm": "460.75",
+    "total_all": "475.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "6.81",
+    "cnt": "3636",
+    "commission_per_row": "1.11",
+    "total_comm": "4035.96",
+    "total_after_comm": "20725.20",
+    "total_all": "24761.16"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "7",
+    "commission_per_row": "3.50",
+    "total_comm": "24.50",
+    "total_after_comm": "465.50",
+    "total_all": "490.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "Package Sales 250GB Libyana NET+",
+    "total_amount_per_row": "150.00",
+    "cnt": "1",
+    "commission_per_row": "6.00",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "59",
+    "commission_per_row": "1.50",
+    "total_comm": "88.50",
+    "total_after_comm": "1681.50",
+    "total_all": "1770.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "11",
+    "commission_per_row": "0.50",
+    "total_comm": "5.50",
+    "total_after_comm": "104.50",
+    "total_all": "110.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "5",
+    "commission_per_row": "1.50",
+    "total_comm": "7.50",
+    "total_after_comm": "167.50",
+    "total_all": "175.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "1",
+    "commission_per_row": "2.00",
+    "total_comm": "2.00",
+    "total_after_comm": "48.00",
+    "total_all": "50.00"
+  },
+  {
+    "sub_dealer": "Tajura",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.59",
+    "cnt": "2670",
+    "commission_per_row": "0.50",
+    "total_comm": "1335.00",
+    "total_after_comm": "10920.30",
+    "total_all": "12255.30"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "305",
+    "commission_per_row": "1.50",
+    "total_comm": "457.50",
+    "total_after_comm": "1067.50",
+    "total_all": "1525.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "12",
+    "commission_per_row": "4.00",
+    "total_comm": "48.00",
+    "total_after_comm": "1152.00",
+    "total_all": "1200.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "206",
+    "commission_per_row": "0.40",
+    "total_comm": "82.40",
+    "total_after_comm": "1977.60",
+    "total_all": "2060.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "3",
+    "commission_per_row": "0.05",
+    "total_comm": "0.15",
+    "total_after_comm": "2.85",
+    "total_all": "3.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "81",
+    "commission_per_row": "0.70",
+    "total_comm": "56.70",
+    "total_after_comm": "1563.30",
+    "total_all": "1620.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "5",
+    "commission_per_row": "0.07",
+    "total_comm": "0.35",
+    "total_after_comm": "9.65",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "65",
+    "commission_per_row": "1.00",
+    "total_comm": "65.00",
+    "total_after_comm": "1885.00",
+    "total_all": "1950.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "112",
+    "commission_per_row": "0.10",
+    "total_comm": "11.20",
+    "total_after_comm": "324.80",
+    "total_all": "336.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 35000000LYD",
+    "total_amount_per_row": "350.00",
+    "cnt": "1",
+    "commission_per_row": "10.50",
+    "total_comm": "10.50",
+    "total_after_comm": "339.50",
+    "total_all": "350.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 50000000LYD",
+    "total_amount_per_row": "500.00",
+    "cnt": "2",
+    "commission_per_row": "15.00",
+    "total_comm": "30.00",
+    "total_after_comm": "970.00",
+    "total_all": "1000.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "29",
+    "commission_per_row": "2.00",
+    "total_comm": "58.00",
+    "total_after_comm": "1392.00",
+    "total_all": "1450.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "416",
+    "commission_per_row": "0.15",
+    "total_comm": "62.40",
+    "total_after_comm": "2017.60",
+    "total_all": "2080.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "7.53",
+    "cnt": "1917",
+    "commission_per_row": "1.17",
+    "total_comm": "2242.89",
+    "total_after_comm": "12192.12",
+    "total_all": "14435.01"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "2",
+    "commission_per_row": "3.50",
+    "total_comm": "7.00",
+    "total_after_comm": "133.00",
+    "total_all": "140.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "28",
+    "commission_per_row": "2.00",
+    "total_comm": "56.00",
+    "total_after_comm": "1344.00",
+    "total_all": "1400.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 150GB Libyana NET+",
+    "total_amount_per_row": "100.00",
+    "cnt": "1",
+    "commission_per_row": "5.00",
+    "total_comm": "5.00",
+    "total_after_comm": "95.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 2000MB",
+    "total_amount_per_row": "8.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "7.50",
+    "total_all": "8.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 250GB Libyana NET+",
+    "total_amount_per_row": "150.00",
+    "cnt": "1",
+    "commission_per_row": "6.00",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "101",
+    "commission_per_row": "1.50",
+    "total_comm": "151.50",
+    "total_after_comm": "2878.50",
+    "total_all": "3030.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 4000MB",
+    "total_amount_per_row": "12.00",
+    "cnt": "3",
+    "commission_per_row": "0.50",
+    "total_comm": "1.50",
+    "total_after_comm": "34.50",
+    "total_all": "36.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "17",
+    "commission_per_row": "0.50",
+    "total_comm": "8.50",
+    "total_after_comm": "161.50",
+    "total_all": "170.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "47",
+    "commission_per_row": "1.00",
+    "total_comm": "47.00",
+    "total_after_comm": "1128.00",
+    "total_all": "1175.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "19",
+    "commission_per_row": "0.50",
+    "total_comm": "9.50",
+    "total_after_comm": "180.50",
+    "total_all": "190.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "59",
+    "commission_per_row": "1.50",
+    "total_comm": "88.50",
+    "total_after_comm": "1976.50",
+    "total_all": "2065.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 800MB",
+    "total_amount_per_row": "4.00",
+    "cnt": "1",
+    "commission_per_row": "0.20",
+    "total_comm": "0.20",
+    "total_after_comm": "3.80",
+    "total_all": "4.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "6",
+    "commission_per_row": "0.75",
+    "total_comm": "4.50",
+    "total_after_comm": "85.50",
+    "total_all": "90.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "7",
+    "commission_per_row": "1.00",
+    "total_comm": "7.00",
+    "total_after_comm": "168.00",
+    "total_all": "175.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "8",
+    "commission_per_row": "1.50",
+    "total_comm": "12.00",
+    "total_after_comm": "268.00",
+    "total_all": "280.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "2",
+    "commission_per_row": "2.00",
+    "total_comm": "4.00",
+    "total_after_comm": "96.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "9.50",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "2",
+    "commission_per_row": "2.00",
+    "total_comm": "4.00",
+    "total_after_comm": "96.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales Qassitha 10GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "7",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales Qassitha 15GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "38",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "2",
+    "commission_per_row": "0.40",
+    "total_comm": "0.80",
+    "total_after_comm": "19.20",
+    "total_all": "20.00"
+  },
+  {
+    "sub_dealer": "western Region",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.58",
+    "cnt": "1436",
+    "commission_per_row": "0.50",
+    "total_comm": "718.00",
+    "total_after_comm": "5858.88",
+    "total_all": "6576.88"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "1535",
+    "commission_per_row": "1.50",
+    "total_comm": "2302.50",
+    "total_after_comm": "5372.50",
+    "total_all": "7675.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "66",
+    "commission_per_row": "4.00",
+    "total_comm": "264.00",
+    "total_after_comm": "6336.00",
+    "total_all": "6600.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "351",
+    "commission_per_row": "0.40",
+    "total_comm": "140.40",
+    "total_after_comm": "3369.60",
+    "total_all": "3510.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "4",
+    "commission_per_row": "0.05",
+    "total_comm": "0.20",
+    "total_after_comm": "3.80",
+    "total_all": "4.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "120",
+    "commission_per_row": "0.70",
+    "total_comm": "84.00",
+    "total_after_comm": "2316.00",
+    "total_all": "2400.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "7",
+    "commission_per_row": "0.07",
+    "total_comm": "0.49",
+    "total_after_comm": "13.51",
+    "total_all": "14.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "86",
+    "commission_per_row": "1.00",
+    "total_comm": "86.00",
+    "total_after_comm": "2494.00",
+    "total_all": "2580.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "26",
+    "commission_per_row": "0.10",
+    "total_comm": "2.60",
+    "total_after_comm": "75.40",
+    "total_all": "78.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 35000000LYD",
+    "total_amount_per_row": "350.00",
+    "cnt": "3",
+    "commission_per_row": "10.50",
+    "total_comm": "31.50",
+    "total_after_comm": "1018.50",
+    "total_all": "1050.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 50000000LYD",
+    "total_amount_per_row": "500.00",
+    "cnt": "4",
+    "commission_per_row": "15.00",
+    "total_comm": "60.00",
+    "total_after_comm": "1940.00",
+    "total_all": "2000.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "95",
+    "commission_per_row": "2.00",
+    "total_comm": "190.00",
+    "total_after_comm": "4560.00",
+    "total_all": "4750.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "766",
+    "commission_per_row": "0.15",
+    "total_comm": "114.90",
+    "total_after_comm": "3715.10",
+    "total_all": "3830.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "10.00",
+    "cnt": "5679",
+    "commission_per_row": "1.33",
+    "total_comm": "7553.07",
+    "total_after_comm": "49236.93",
+    "total_all": "56790.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "72",
+    "commission_per_row": "3.50",
+    "total_comm": "252.00",
+    "total_after_comm": "4788.00",
+    "total_all": "5040.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 100MB",
+    "total_amount_per_row": "1.00",
+    "cnt": "2",
+    "commission_per_row": "0.10",
+    "total_comm": "0.20",
+    "total_after_comm": "1.80",
+    "total_all": "2.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "52",
+    "commission_per_row": "2.00",
+    "total_comm": "104.00",
+    "total_after_comm": "2496.00",
+    "total_all": "2600.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 150GB Libyana NET+",
+    "total_amount_per_row": "100.00",
+    "cnt": "8",
+    "commission_per_row": "5.00",
+    "total_comm": "40.00",
+    "total_after_comm": "760.00",
+    "total_all": "800.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "403",
+    "commission_per_row": "1.50",
+    "total_comm": "604.50",
+    "total_after_comm": "11485.50",
+    "total_all": "12090.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "85",
+    "commission_per_row": "0.50",
+    "total_comm": "42.50",
+    "total_after_comm": "807.50",
+    "total_all": "850.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "85",
+    "commission_per_row": "1.00",
+    "total_comm": "85.00",
+    "total_after_comm": "2040.00",
+    "total_all": "2125.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "185",
+    "commission_per_row": "0.50",
+    "total_comm": "92.50",
+    "total_after_comm": "1757.50",
+    "total_all": "1850.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 6000MB",
+    "total_amount_per_row": "16.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "15.50",
+    "total_all": "16.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 650GB Libyana NET+",
+    "total_amount_per_row": "250.00",
+    "cnt": "3",
+    "commission_per_row": "10.00",
+    "total_comm": "30.00",
+    "total_after_comm": "720.00",
+    "total_all": "750.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "91",
+    "commission_per_row": "1.50",
+    "total_comm": "136.50",
+    "total_after_comm": "3048.50",
+    "total_all": "3185.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 800MB",
+    "total_amount_per_row": "4.00",
+    "cnt": "2",
+    "commission_per_row": "0.20",
+    "total_comm": "0.40",
+    "total_after_comm": "7.60",
+    "total_all": "8.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "17",
+    "commission_per_row": "0.75",
+    "total_comm": "12.75",
+    "total_after_comm": "242.25",
+    "total_all": "255.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "12",
+    "commission_per_row": "1.00",
+    "total_comm": "12.00",
+    "total_after_comm": "288.00",
+    "total_all": "300.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "15",
+    "commission_per_row": "1.50",
+    "total_comm": "22.50",
+    "total_after_comm": "502.50",
+    "total_all": "525.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "8",
+    "commission_per_row": "2.00",
+    "total_comm": "16.00",
+    "total_after_comm": "384.00",
+    "total_all": "400.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales Monthly_5G",
+    "total_amount_per_row": "10.00",
+    "cnt": "1",
+    "commission_per_row": "0.50",
+    "total_comm": "0.50",
+    "total_after_comm": "9.50",
+    "total_all": "10.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "10",
+    "commission_per_row": "0.50",
+    "total_comm": "5.00",
+    "total_after_comm": "95.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "5",
+    "commission_per_row": "2.00",
+    "total_comm": "10.00",
+    "total_after_comm": "240.00",
+    "total_all": "250.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales Qassitha 10GB",
+    "total_amount_per_row": "0.00",
+    "cnt": "1",
+    "commission_per_row": "NULL",
+    "total_comm": "NULL",
+    "total_after_comm": "NULL",
+    "total_all": "0.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "7",
+    "commission_per_row": "0.40",
+    "total_comm": "2.80",
+    "total_after_comm": "67.20",
+    "total_all": "70.00"
+  },
+  {
+    "sub_dealer": "Zliten",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.53",
+    "cnt": "3965",
+    "commission_per_row": "0.50",
+    "total_comm": "1982.50",
+    "total_after_comm": "15978.95",
+    "total_all": "17961.45"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "ACTIVE FROZEN",
+    "total_amount_per_row": "5.00",
+    "cnt": "936",
+    "commission_per_row": "1.50",
+    "total_comm": "1404.00",
+    "total_after_comm": "3276.00",
+    "total_all": "4680.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "eTopup Sale 10000000LYD",
+    "total_amount_per_row": "100.00",
+    "cnt": "9",
+    "commission_per_row": "4.00",
+    "total_comm": "36.00",
+    "total_after_comm": "864.00",
+    "total_all": "900.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "eTopup Sale 1000000LYD",
+    "total_amount_per_row": "10.00",
+    "cnt": "169",
+    "commission_per_row": "0.40",
+    "total_comm": "67.60",
+    "total_after_comm": "1622.40",
+    "total_all": "1690.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "eTopup Sale 100000LYD",
+    "total_amount_per_row": "1.00",
+    "cnt": "14",
+    "commission_per_row": "0.05",
+    "total_comm": "0.70",
+    "total_after_comm": "13.30",
+    "total_all": "14.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "eTopup Sale 2000000LYD",
+    "total_amount_per_row": "20.00",
+    "cnt": "52",
+    "commission_per_row": "0.70",
+    "total_comm": "36.40",
+    "total_after_comm": "1003.60",
+    "total_all": "1040.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "eTopup Sale 200000LYD",
+    "total_amount_per_row": "2.00",
+    "cnt": "9",
+    "commission_per_row": "0.07",
+    "total_comm": "0.63",
+    "total_after_comm": "17.37",
+    "total_all": "18.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "eTopup Sale 3000000LYD",
+    "total_amount_per_row": "30.00",
+    "cnt": "46",
+    "commission_per_row": "1.00",
+    "total_comm": "46.00",
+    "total_after_comm": "1334.00",
+    "total_all": "1380.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "eTopup Sale 300000LYD",
+    "total_amount_per_row": "3.00",
+    "cnt": "74",
+    "commission_per_row": "0.10",
+    "total_comm": "7.40",
+    "total_after_comm": "214.60",
+    "total_all": "222.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "eTopup Sale 35000000LYD",
+    "total_amount_per_row": "350.00",
+    "cnt": "2",
+    "commission_per_row": "10.50",
+    "total_comm": "21.00",
+    "total_after_comm": "679.00",
+    "total_all": "700.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "eTopup Sale 5000000LYD",
+    "total_amount_per_row": "50.00",
+    "cnt": "47",
+    "commission_per_row": "2.00",
+    "total_comm": "94.00",
+    "total_after_comm": "2256.00",
+    "total_all": "2350.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "eTopup Sale 500000LYD",
+    "total_amount_per_row": "5.00",
+    "cnt": "467",
+    "commission_per_row": "0.15",
+    "total_comm": "70.05",
+    "total_after_comm": "2264.95",
+    "total_all": "2335.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "NEW CONNECTION",
+    "total_amount_per_row": "7.32",
+    "cnt": "6486",
+    "commission_per_row": "1.15",
+    "total_comm": "7458.90",
+    "total_after_comm": "40018.62",
+    "total_all": "47477.52"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 100GB Libyana NET+",
+    "total_amount_per_row": "70.00",
+    "cnt": "47",
+    "commission_per_row": "3.50",
+    "total_comm": "164.50",
+    "total_after_comm": "3125.50",
+    "total_all": "3290.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 10GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "24",
+    "commission_per_row": "2.00",
+    "total_comm": "48.00",
+    "total_after_comm": "1152.00",
+    "total_all": "1200.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 150GB Libyana NET+",
+    "total_amount_per_row": "100.00",
+    "cnt": "1",
+    "commission_per_row": "5.00",
+    "total_comm": "5.00",
+    "total_after_comm": "95.00",
+    "total_all": "100.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 2000MB",
+    "total_amount_per_row": "8.00",
+    "cnt": "3",
+    "commission_per_row": "0.50",
+    "total_comm": "1.50",
+    "total_after_comm": "22.50",
+    "total_all": "24.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 25GB Libyana NET+",
+    "total_amount_per_row": "30.00",
+    "cnt": "320",
+    "commission_per_row": "1.50",
+    "total_comm": "480.00",
+    "total_after_comm": "9120.00",
+    "total_all": "9600.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 4000MB",
+    "total_amount_per_row": "12.00",
+    "cnt": "3",
+    "commission_per_row": "0.50",
+    "total_comm": "1.50",
+    "total_after_comm": "34.50",
+    "total_all": "36.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 400MB",
+    "total_amount_per_row": "3.00",
+    "cnt": "3",
+    "commission_per_row": "0.10",
+    "total_comm": "0.30",
+    "total_after_comm": "8.70",
+    "total_all": "9.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 5 Giga package",
+    "total_amount_per_row": "10.00",
+    "cnt": "114",
+    "commission_per_row": "0.50",
+    "total_comm": "57.00",
+    "total_after_comm": "1083.00",
+    "total_all": "1140.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 5GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "91",
+    "commission_per_row": "1.00",
+    "total_comm": "91.00",
+    "total_after_comm": "2184.00",
+    "total_all": "2275.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 5GB Libyana NET+",
+    "total_amount_per_row": "10.00",
+    "cnt": "94",
+    "commission_per_row": "0.50",
+    "total_comm": "47.00",
+    "total_after_comm": "893.00",
+    "total_all": "940.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 6000MB",
+    "total_amount_per_row": "16.00",
+    "cnt": "2",
+    "commission_per_row": "0.50",
+    "total_comm": "1.00",
+    "total_after_comm": "31.00",
+    "total_all": "32.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 7GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "53",
+    "commission_per_row": "1.50",
+    "total_comm": "79.50",
+    "total_after_comm": "1775.50",
+    "total_all": "1855.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 800MB",
+    "total_amount_per_row": "4.00",
+    "cnt": "4",
+    "commission_per_row": "0.20",
+    "total_comm": "0.80",
+    "total_after_comm": "15.20",
+    "total_all": "16.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales 8GB",
+    "total_amount_per_row": "15.00",
+    "cnt": "22",
+    "commission_per_row": "0.75",
+    "total_comm": "16.50",
+    "total_after_comm": "313.50",
+    "total_all": "330.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales Monthly_15GB",
+    "total_amount_per_row": "25.00",
+    "cnt": "15",
+    "commission_per_row": "1.00",
+    "total_comm": "15.00",
+    "total_after_comm": "360.00",
+    "total_all": "375.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales Monthly_21GB",
+    "total_amount_per_row": "35.00",
+    "cnt": "12",
+    "commission_per_row": "1.50",
+    "total_comm": "18.00",
+    "total_after_comm": "402.00",
+    "total_all": "420.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales Monthly_50GB",
+    "total_amount_per_row": "50.00",
+    "cnt": "3",
+    "commission_per_row": "2.00",
+    "total_comm": "6.00",
+    "total_after_comm": "144.00",
+    "total_all": "150.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales Monthly_5GB",
+    "total_amount_per_row": "10.00",
+    "cnt": "22",
+    "commission_per_row": "0.50",
+    "total_comm": "11.00",
+    "total_after_comm": "209.00",
+    "total_all": "220.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales off peak Libyana NET+",
+    "total_amount_per_row": "50.00",
+    "cnt": "6",
+    "commission_per_row": "2.00",
+    "total_comm": "12.00",
+    "total_after_comm": "288.00",
+    "total_all": "300.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "Package Sales Unlimited Daily New",
+    "total_amount_per_row": "10.00",
+    "cnt": "2",
+    "commission_per_row": "0.40",
+    "total_comm": "0.80",
+    "total_after_comm": "19.20",
+    "total_all": "20.00"
+  },
+  {
+    "sub_dealer": "Zwara",
+    "recharge_type": "SIM CARD REPLACE",
+    "total_amount_per_row": "4.55",
+    "cnt": "4923",
+    "commission_per_row": "0.50",
+    "total_comm": "2461.50",
+    "total_after_comm": "19938.15",
+    "total_all": "22399.65"
+  }
+]

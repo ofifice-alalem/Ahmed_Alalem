@@ -1,0 +1,398 @@
+[
+  {
+    "Recharge type LYD": "ACTIVE FROZEN",
+    "Total Amount (per row avg)": "5.00",
+    "count": "16696",
+    "COMMISSION (per row avg)": "1.50",
+    "Total-Comm": "25044.00",
+    "Total-After-Comm": "58436.00",
+    "Total": "83480.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 10000000LYD",
+    "Total Amount (per row avg)": "100.00",
+    "count": "278",
+    "COMMISSION (per row avg)": "4.00",
+    "Total-Comm": "1112.00",
+    "Total-After-Comm": "26688.00",
+    "Total": "27800.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 1000000LYD",
+    "Total Amount (per row avg)": "10.00",
+    "count": "2502",
+    "COMMISSION (per row avg)": "0.40",
+    "Total-Comm": "1000.80",
+    "Total-After-Comm": "24019.20",
+    "Total": "25020.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 100000LYD",
+    "Total Amount (per row avg)": "1.00",
+    "count": "103",
+    "COMMISSION (per row avg)": "0.05",
+    "Total-Comm": "5.15",
+    "Total-After-Comm": "97.85",
+    "Total": "103.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 2000000LYD",
+    "Total Amount (per row avg)": "20.00",
+    "count": "994",
+    "COMMISSION (per row avg)": "0.70",
+    "Total-Comm": "695.80",
+    "Total-After-Comm": "19184.20",
+    "Total": "19880.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 200000LYD",
+    "Total Amount (per row avg)": "2.00",
+    "count": "91",
+    "COMMISSION (per row avg)": "0.07",
+    "Total-Comm": "6.37",
+    "Total-After-Comm": "175.63",
+    "Total": "182.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 3000000LYD",
+    "Total Amount (per row avg)": "30.00",
+    "count": "916",
+    "COMMISSION (per row avg)": "1.00",
+    "Total-Comm": "916.00",
+    "Total-After-Comm": "26564.00",
+    "Total": "27480.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 300000LYD",
+    "Total Amount (per row avg)": "3.00",
+    "count": "672",
+    "COMMISSION (per row avg)": "0.10",
+    "Total-Comm": "67.20",
+    "Total-After-Comm": "1948.80",
+    "Total": "2016.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 35000000LYD",
+    "Total Amount (per row avg)": "350.00",
+    "count": "14",
+    "COMMISSION (per row avg)": "10.50",
+    "Total-Comm": "147.00",
+    "Total-After-Comm": "4753.00",
+    "Total": "4900.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 50000000LYD",
+    "Total Amount (per row avg)": "500.00",
+    "count": "13",
+    "COMMISSION (per row avg)": "15.00",
+    "Total-Comm": "195.00",
+    "Total-After-Comm": "6305.00",
+    "Total": "6500.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 5000000LYD",
+    "Total Amount (per row avg)": "50.00",
+    "count": "664",
+    "COMMISSION (per row avg)": "2.00",
+    "Total-Comm": "1328.00",
+    "Total-After-Comm": "31872.00",
+    "Total": "33200.00"
+  },
+  {
+    "Recharge type LYD": "eTopup Sale 500000LYD",
+    "Total Amount (per row avg)": "5.00",
+    "count": "5885",
+    "COMMISSION (per row avg)": "0.15",
+    "Total-Comm": "882.75",
+    "Total-After-Comm": "28542.25",
+    "Total": "29425.00"
+  },
+  {
+    "Recharge type LYD": "NEW CONNECTION",
+    "Total Amount (per row avg)": "7.47",
+    "count": "95833",
+    "COMMISSION (per row avg)": "1.16",
+    "Total-Comm": "111166.28",
+    "Total-After-Comm": "604706.23",
+    "Total": "715872.51"
+  },
+  {
+    "Recharge type LYD": "Package Sales 100GB Libyana NET+",
+    "Total Amount (per row avg)": "70.00",
+    "count": "521",
+    "COMMISSION (per row avg)": "3.50",
+    "Total-Comm": "1823.50",
+    "Total-After-Comm": "34646.50",
+    "Total": "36470.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 100MB",
+    "Total Amount (per row avg)": "1.00",
+    "count": "5",
+    "COMMISSION (per row avg)": "0.10",
+    "Total-Comm": "0.50",
+    "Total-After-Comm": "4.50",
+    "Total": "5.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 10GB",
+    "Total Amount (per row avg)": "50.00",
+    "count": "477",
+    "COMMISSION (per row avg)": "2.00",
+    "Total-Comm": "954.00",
+    "Total-After-Comm": "22896.00",
+    "Total": "23850.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 150GB Libyana NET+",
+    "Total Amount (per row avg)": "100.00",
+    "count": "42",
+    "COMMISSION (per row avg)": "5.00",
+    "Total-Comm": "210.00",
+    "Total-After-Comm": "3990.00",
+    "Total": "4200.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 2000MB",
+    "Total Amount (per row avg)": "8.00",
+    "count": "20",
+    "COMMISSION (per row avg)": "0.50",
+    "Total-Comm": "10.00",
+    "Total-After-Comm": "150.00",
+    "Total": "160.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 250GB Libyana NET+",
+    "Total Amount (per row avg)": "150.00",
+    "count": "31",
+    "COMMISSION (per row avg)": "6.00",
+    "Total-Comm": "186.00",
+    "Total-After-Comm": "4464.00",
+    "Total": "4650.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 25GB libyana net plus NEW",
+    "Total Amount (per row avg)": "30.00",
+    "count": "1",
+    "COMMISSION (per row avg)": "1.50",
+    "Total-Comm": "1.50",
+    "Total-After-Comm": "28.50",
+    "Total": "30.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 25GB Libyana NET+",
+    "Total Amount (per row avg)": "30.00",
+    "count": "3363",
+    "COMMISSION (per row avg)": "1.50",
+    "Total-Comm": "5044.50",
+    "Total-After-Comm": "95845.50",
+    "Total": "100890.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 4000MB",
+    "Total Amount (per row avg)": "12.00",
+    "count": "34",
+    "COMMISSION (per row avg)": "0.50",
+    "Total-Comm": "17.00",
+    "Total-After-Comm": "391.00",
+    "Total": "408.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 400MB",
+    "Total Amount (per row avg)": "3.00",
+    "count": "5",
+    "COMMISSION (per row avg)": "0.10",
+    "Total-Comm": "0.50",
+    "Total-After-Comm": "14.50",
+    "Total": "15.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 5 Giga package",
+    "Total Amount (per row avg)": "10.00",
+    "count": "616",
+    "COMMISSION (per row avg)": "0.50",
+    "Total-Comm": "308.00",
+    "Total-After-Comm": "5852.00",
+    "Total": "6160.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 5GB",
+    "Total Amount (per row avg)": "25.00",
+    "count": "841",
+    "COMMISSION (per row avg)": "1.00",
+    "Total-Comm": "841.00",
+    "Total-After-Comm": "20184.00",
+    "Total": "21025.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 5GB Libyana NET+",
+    "Total Amount (per row avg)": "10.00",
+    "count": "1363",
+    "COMMISSION (per row avg)": "0.50",
+    "Total-Comm": "681.50",
+    "Total-After-Comm": "12948.50",
+    "Total": "13630.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 5GB NET PLUS NEW",
+    "Total Amount (per row avg)": "10.00",
+    "count": "1",
+    "COMMISSION (per row avg)": "0.50",
+    "Total-Comm": "0.50",
+    "Total-After-Comm": "9.50",
+    "Total": "10.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 6000MB",
+    "Total Amount (per row avg)": "16.00",
+    "count": "33",
+    "COMMISSION (per row avg)": "0.50",
+    "Total-Comm": "16.50",
+    "Total-After-Comm": "511.50",
+    "Total": "528.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 650GB Libyana NET+",
+    "Total Amount (per row avg)": "250.00",
+    "count": "6",
+    "COMMISSION (per row avg)": "10.00",
+    "Total-Comm": "60.00",
+    "Total-After-Comm": "1440.00",
+    "Total": "1500.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 7GB",
+    "Total Amount (per row avg)": "35.00",
+    "count": "773",
+    "COMMISSION (per row avg)": "1.50",
+    "Total-Comm": "1159.50",
+    "Total-After-Comm": "25895.50",
+    "Total": "27055.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 800MB",
+    "Total Amount (per row avg)": "4.00",
+    "count": "20",
+    "COMMISSION (per row avg)": "0.20",
+    "Total-Comm": "4.00",
+    "Total-After-Comm": "76.00",
+    "Total": "80.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales 8GB",
+    "Total Amount (per row avg)": "15.00",
+    "count": "164",
+    "COMMISSION (per row avg)": "0.75",
+    "Total-Comm": "123.00",
+    "Total-After-Comm": "2337.00",
+    "Total": "2460.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales Monthly 50G",
+    "Total Amount (per row avg)": "50.00",
+    "count": "3",
+    "COMMISSION (per row avg)": "2.00",
+    "Total-Comm": "6.00",
+    "Total-After-Comm": "144.00",
+    "Total": "150.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales Monthly_15GB",
+    "Total Amount (per row avg)": "25.00",
+    "count": "116",
+    "COMMISSION (per row avg)": "1.00",
+    "Total-Comm": "116.00",
+    "Total-After-Comm": "2784.00",
+    "Total": "2900.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales Monthly_21GB",
+    "Total Amount (per row avg)": "35.00",
+    "count": "101",
+    "COMMISSION (per row avg)": "1.50",
+    "Total-Comm": "151.50",
+    "Total-After-Comm": "3383.50",
+    "Total": "3535.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales Monthly_50GB",
+    "Total Amount (per row avg)": "50.00",
+    "count": "55",
+    "COMMISSION (per row avg)": "2.00",
+    "Total-Comm": "110.00",
+    "Total-After-Comm": "2640.00",
+    "Total": "2750.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales Monthly_5G",
+    "Total Amount (per row avg)": "10.00",
+    "count": "5",
+    "COMMISSION (per row avg)": "0.50",
+    "Total-Comm": "2.50",
+    "Total-After-Comm": "47.50",
+    "Total": "50.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales Monthly_5GB",
+    "Total Amount (per row avg)": "10.00",
+    "count": "88",
+    "COMMISSION (per row avg)": "0.50",
+    "Total-Comm": "44.00",
+    "Total-After-Comm": "836.00",
+    "Total": "880.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales off peak Libyana NET+",
+    "Total Amount (per row avg)": "50.00",
+    "count": "56",
+    "COMMISSION (per row avg)": "2.00",
+    "Total-Comm": "112.00",
+    "Total-After-Comm": "2688.00",
+    "Total": "2800.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales Qassitha 10GB",
+    "Total Amount (per row avg)": "0.00",
+    "count": "46",
+    "COMMISSION (per row avg)": "NULL",
+    "Total-Comm": "NULL",
+    "Total-After-Comm": "NULL",
+    "Total": "0.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales Qassitha 15GB",
+    "Total Amount (per row avg)": "0.00",
+    "count": "156",
+    "COMMISSION (per row avg)": "NULL",
+    "Total-Comm": "NULL",
+    "Total-After-Comm": "NULL",
+    "Total": "0.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales Unlimited Daily New",
+    "Total Amount (per row avg)": "10.00",
+    "count": "55",
+    "COMMISSION (per row avg)": "0.40",
+    "Total-Comm": "22.00",
+    "Total-After-Comm": "528.00",
+    "Total": "550.00"
+  },
+  {
+    "Recharge type LYD": "Package Sales Unlimited Weekly New",
+    "Total Amount (per row avg)": "60.00",
+    "count": "7",
+    "COMMISSION (per row avg)": "3.00",
+    "Total-Comm": "21.00",
+    "Total-After-Comm": "399.00",
+    "Total": "420.00"
+  },
+  {
+    "Recharge type LYD": "SIM CARD REPLACE",
+    "Total Amount (per row avg)": "4.55",
+    "count": "74945",
+    "COMMISSION (per row avg)": "0.50",
+    "Total-Comm": "37472.50",
+    "Total-After-Comm": "303527.25",
+    "Total": "340999.75"
+  }
+]

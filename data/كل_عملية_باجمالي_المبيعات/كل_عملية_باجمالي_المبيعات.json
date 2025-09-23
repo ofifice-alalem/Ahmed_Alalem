@@ -1,0 +1,266 @@
+[
+  {
+    "Recharge_type_LYD": "NEW CONNECTION",
+    "total_all_sum": 715880.0,
+    "total_comm_sum": 111088.98,
+    "total_after_comm_sum": 604791.02
+  },
+  {
+    "Recharge_type_LYD": "SIM CARD REPLACE",
+    "total_all_sum": 341371.0,
+    "total_comm_sum": 37472.5,
+    "total_after_comm_sum": 303898.5
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 25GB Libyana NET+",
+    "total_all_sum": 100890.0,
+    "total_comm_sum": 5044.5,
+    "total_after_comm_sum": 95845.5
+  },
+  {
+    "Recharge_type_LYD": "ACTIVE FROZEN",
+    "total_all_sum": 83480.0,
+    "total_comm_sum": 25041.0,
+    "total_after_comm_sum": 58439.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 100GB Libyana NET+",
+    "total_all_sum": 36470.0,
+    "total_comm_sum": 1823.5,
+    "total_after_comm_sum": 34646.5
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 5000000LYD",
+    "total_all_sum": 33200.0,
+    "total_comm_sum": 1328.0,
+    "total_after_comm_sum": 31872.0
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 500000LYD",
+    "total_all_sum": 29425.0,
+    "total_comm_sum": 882.75,
+    "total_after_comm_sum": 28542.25
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 10000000LYD",
+    "total_all_sum": 27800.0,
+    "total_comm_sum": 1112.0,
+    "total_after_comm_sum": 26688.0
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 3000000LYD",
+    "total_all_sum": 27480.0,
+    "total_comm_sum": 916.0,
+    "total_after_comm_sum": 26564.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 7GB",
+    "total_all_sum": 27055.0,
+    "total_comm_sum": 1159.5,
+    "total_after_comm_sum": 25895.5
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 1000000LYD",
+    "total_all_sum": 25020.0,
+    "total_comm_sum": 1000.8,
+    "total_after_comm_sum": 24019.2
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 10GB",
+    "total_all_sum": 23850.0,
+    "total_comm_sum": 954.0,
+    "total_after_comm_sum": 22896.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 5GB",
+    "total_all_sum": 21025.0,
+    "total_comm_sum": 841.0,
+    "total_after_comm_sum": 20184.0
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 2000000LYD",
+    "total_all_sum": 19880.0,
+    "total_comm_sum": 695.8,
+    "total_after_comm_sum": 19184.2
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 5GB Libyana NET+",
+    "total_all_sum": 13630.0,
+    "total_comm_sum": 681.5,
+    "total_after_comm_sum": 12948.5
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 50000000LYD",
+    "total_all_sum": 6500.0,
+    "total_comm_sum": 195.0,
+    "total_after_comm_sum": 6305.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 5 Giga package",
+    "total_all_sum": 6160.0,
+    "total_comm_sum": 308.0,
+    "total_after_comm_sum": 5852.0
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 35000000LYD",
+    "total_all_sum": 4900.0,
+    "total_comm_sum": 147.0,
+    "total_after_comm_sum": 4753.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 250GB Libyana NET+",
+    "total_all_sum": 4650.0,
+    "total_comm_sum": 186.0,
+    "total_after_comm_sum": 4464.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 150GB Libyana NET+",
+    "total_all_sum": 4200.0,
+    "total_comm_sum": 210.0,
+    "total_after_comm_sum": 3990.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales Monthly_21GB",
+    "total_all_sum": 3535.0,
+    "total_comm_sum": 151.5,
+    "total_after_comm_sum": 3383.5
+  },
+  {
+    "Recharge_type_LYD": "Package Sales Monthly_15GB",
+    "total_all_sum": 2900.0,
+    "total_comm_sum": 116.0,
+    "total_after_comm_sum": 2784.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales off peak Libyana NET+",
+    "total_all_sum": 2800.0,
+    "total_comm_sum": 112.0,
+    "total_after_comm_sum": 2688.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales Monthly_50GB",
+    "total_all_sum": 2750.0,
+    "total_comm_sum": 110.0,
+    "total_after_comm_sum": 2640.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 8GB",
+    "total_all_sum": 2460.0,
+    "total_comm_sum": 123.0,
+    "total_after_comm_sum": 2337.0
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 300000LYD",
+    "total_all_sum": 2016.0,
+    "total_comm_sum": 67.2,
+    "total_after_comm_sum": 1948.8
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 650GB Libyana NET+",
+    "total_all_sum": 1500.0,
+    "total_comm_sum": 60.0,
+    "total_after_comm_sum": 1440.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales Monthly_5GB",
+    "total_all_sum": 880.0,
+    "total_comm_sum": 44.0,
+    "total_after_comm_sum": 836.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales Unlimited Daily New",
+    "total_all_sum": 550.0,
+    "total_comm_sum": 22.0,
+    "total_after_comm_sum": 528.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 6000MB",
+    "total_all_sum": 528.0,
+    "total_comm_sum": 16.5,
+    "total_after_comm_sum": 511.5
+  },
+  {
+    "Recharge_type_LYD": "Package Sales Unlimited Weekly New",
+    "total_all_sum": 420.0,
+    "total_comm_sum": 21.0,
+    "total_after_comm_sum": 399.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 4000MB",
+    "total_all_sum": 408.0,
+    "total_comm_sum": 17.0,
+    "total_after_comm_sum": 391.0
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 200000LYD",
+    "total_all_sum": 182.0,
+    "total_comm_sum": 6.37,
+    "total_after_comm_sum": 175.63
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 2000MB",
+    "total_all_sum": 160.0,
+    "total_comm_sum": 10.0,
+    "total_after_comm_sum": 150.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales Monthly 50G",
+    "total_all_sum": 150.0,
+    "total_comm_sum": 6.0,
+    "total_after_comm_sum": 144.0
+  },
+  {
+    "Recharge_type_LYD": "eTopup Sale 100000LYD",
+    "total_all_sum": 103.0,
+    "total_comm_sum": 5.15,
+    "total_after_comm_sum": 97.85
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 800MB",
+    "total_all_sum": 80.0,
+    "total_comm_sum": 4.0,
+    "total_after_comm_sum": 76.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales Monthly_5G",
+    "total_all_sum": 50.0,
+    "total_comm_sum": 2.5,
+    "total_after_comm_sum": 47.5
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 25GB libyana net plus NEW",
+    "total_all_sum": 30.0,
+    "total_comm_sum": 1.5,
+    "total_after_comm_sum": 28.5
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 400MB",
+    "total_all_sum": 15.0,
+    "total_comm_sum": 0.5,
+    "total_after_comm_sum": 14.5
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 5GB NET PLUS NEW",
+    "total_all_sum": 10.0,
+    "total_comm_sum": 0.5,
+    "total_after_comm_sum": 9.5
+  },
+  {
+    "Recharge_type_LYD": "Package Sales 100MB",
+    "total_all_sum": 5.0,
+    "total_comm_sum": 0.5,
+    "total_after_comm_sum": 4.5
+  },
+  {
+    "Recharge_type_LYD": "Package Sales Qassitha 10GB",
+    "total_all_sum": 0.0,
+    "total_comm_sum": 0.0,
+    "total_after_comm_sum": 0.0
+  },
+  {
+    "Recharge_type_LYD": "Package Sales Qassitha 15GB",
+    "total_all_sum": 0.0,
+    "total_comm_sum": 0.0,
+    "total_after_comm_sum": 0.0
+  }
+]
