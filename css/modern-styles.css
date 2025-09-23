@@ -533,12 +533,24 @@ body {
   .table-container {
     margin: 1rem;
     width: calc(100% - 2rem);
+    max-width: 100%;
+  }
+  
+  .table-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .modern-table {
+    min-width: 600px;
   }
   
   .modern-table th,
   .modern-table td {
-    padding: 1rem 0.75rem;
+    padding: 1rem 1.5rem;
     font-size: 0.85rem;
+    white-space: wrap;
+    min-width: 250px;
   }
 }
 
