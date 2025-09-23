@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>كل فرع - باجمالي المبيعات</title>
+  <link rel="stylesheet" href="css/modern-styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-layout">
+    <!-- Mobile Header -->
+    <header class="mobile-header">
+      <div class="brand">
+        <img class="logo" src="logo/logo.png" alt="logo" />
+        <h1>كل فرع - باجمالي المبيعات</h1>
+      </div>
+      <button class="menu-toggle" aria-label="فتح القائمة">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <!-- Page Header -->
+      <div class="search-section">
+        <h2 class="text-xl font-bold text-primary mb-3">🏢 كل فرع - باجمالي المبيعات</h2>
+        <p class="text-sm text-muted mb-3">إحصائيات شاملة لكل فرع مع مقارنة الأداء والمبيعات</p>
+        <div class="search-row">
+          <input id="filter" class="search-input" placeholder="ابحث باسم الفرع..." />
+          <div class="text-sm text-gray">عرض <span id="count" class="count-badge">0</span> فرع</div>
+        </div>
+      </div>
+
+      <!-- Totals Section -->
+      <div class="totals-section" id="totals">
+        <div class="totals-grid">
+          <div class="total-item">
+            <div class="total-label">إجمالي المبيعات</div>
+            <div class="total-value" id="total_sales">0</div>
+          </div>
+          <div class="total-item">
+            <div class="total-label">إجمالي العمولة</div>
+            <div class="total-value" id="total_comm">0</div>
+          </div>
+          <div class="total-item">
+            <div class="total-label">بعد العمولة</div>
+            <div class="total-value" id="total_after">0</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Table Section -->
+      <div class="table-container">
+        <div class="table-wrapper">
+          <table id="tbl" class="modern-table">
+            <thead></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="js/app.js"></script>
+  <script src="js/modern-ui.js"></script>
+  <script>
+    (async function(){
+      try {
+        const data = await fetch('data/كل_فرع_باجمالي_المبيعات/كل_فرع_باجمالي_المبيعات.json').then(r=>r.json());
+        
+        const table = document.getElementById('tbl');
+        const thead = table.querySelector('thead');
+        const tbody = table.querySelector('tbody');
+        
+        thead.innerHTML = `
+          <tr>
+            <th>الفرع</th>
+            <th>اجمالي المبيعات</th>
+            <th>اجمالي العمولة</th>
+            <th>بعد العمولة</th>
+          </tr>
+        `;
+
+        function render(q=''){
+          tbody.innerHTML='';
+          const Q = String(q||'').trim().toUpperCase();
+          let sum_total_all = 0, sum_total_comm = 0, sum_total_after = 0, count=0;
+          
+          const rows = data.filter(r => String(getVal(r,['SUB_DEALER','SUB-DEALER','sub_dealer','SUB_DEALER'])||'').toUpperCase().includes(Q));
+          
+          rows.forEach(row=>{
+            const tr = document.createElement('tr');
+            const name = getVal(row,['SUB_DEALER','SUB-DEALER','sub_dealer'])||'';
+            const total = getVal(row,['total_all_sum','total_all'])||0;
+            const comm = getVal(row,['total_comm_sum','total_comm'])||0;
+            const after = getVal(row,['total_after_comm_sum','total_after_comm'])||0;
+            
+            tr.innerHTML = `
+              <td><strong class="text-primary">${escapeHtml(name)}</strong></td>
+              <td class="font-bold text-lg">${formatTableNumber(total)}</td>
+              <td class="font-bold text-accent">${formatTableNumber(comm)}</td>
+              <td class="font-bold text-primary">${formatTableNumber(after)}</td>
+            `;
+            tbody.appendChild(tr);
+            
+            sum_total_all += parseNumber(total);
+            sum_total_comm += parseNumber(comm);
+            sum_total_after += parseNumber(after);
+            count++;
+          });
+          
+          document.getElementById('count').innerText = count;
+          document.getElementById('total_sales').innerText = formatNumber(sum_total_all);
+          document.getElementById('total_comm').innerText = formatNumber(sum_total_comm);
+          document.getElementById('total_after').innerText = formatNumber(sum_total_after);
+          
+          // Add loading animation
+          AnimationUtils.fadeIn(table, 300);
+        }
+
+        document.getElementById('filter').addEventListener('input', e=> {
+          render(e.target.value);
+        });
+        
+        // Initial render
+        render('');
+        
+      } catch (error) {
+        console.error('خطأ في تحميل البيانات:', error);
+        document.querySelector('.main-content').innerHTML += `
+          <div class="search-section text-center">
+            <h3 class="text-error">⚠️ خطأ في تحميل البيانات</h3>
+            <p class="text-muted">يرجى التأكد من وجود ملف كل_فرع_باجمالي_المبيعات.json</p>
+          </div>
+        `;
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,128 @@
+<DATA>
+
+	<ROW>
+		<SUB_DEALER>mosrata</SUB_DEALER>
+		<total_all_sum>325667.0000</total_all_sum>
+		<total_comm_sum>34087.9200</total_comm_sum>
+		<total_after_comm_sum>291579.0800</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>almadar</SUB_DEALER>
+		<total_all_sum>157838.0000</total_all_sum>
+		<total_comm_sum>19864.4000</total_comm_sum>
+		<total_after_comm_sum>137973.6000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>sabaha</SUB_DEALER>
+		<total_all_sum>142047.0000</total_all_sum>
+		<total_comm_sum>19125.8900</total_comm_sum>
+		<total_after_comm_sum>122921.1100</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>Zliten</SUB_DEALER>
+		<total_all_sum>140484.0000</total_all_sum>
+		<total_comm_sum>14289.2500</total_comm_sum>
+		<total_after_comm_sum>126194.7500</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>Efurn</SUB_DEALER>
+		<total_all_sum>113666.0000</total_all_sum>
+		<total_comm_sum>15349.0300</total_comm_sum>
+		<total_after_comm_sum>98316.9700</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>Zwara</SUB_DEALER>
+		<total_all_sum>107529.0000</total_all_sum>
+		<total_comm_sum>12761.8800</total_comm_sum>
+		<total_after_comm_sum>94767.1200</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>Khums</SUB_DEALER>
+		<total_all_sum>94298.0000</total_all_sum>
+		<total_comm_sum>11361.3000</total_comm_sum>
+		<total_after_comm_sum>82936.7000</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>Eastern Region</SUB_DEALER>
+		<total_all_sum>88396.0000</total_all_sum>
+		<total_comm_sum>11644.0900</total_comm_sum>
+		<total_after_comm_sum>76751.9100</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>Albayda</SUB_DEALER>
+		<total_all_sum>86852.0000</total_all_sum>
+		<total_comm_sum>13209.0600</total_comm_sum>
+		<total_after_comm_sum>73642.9400</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>sug aljumea</SUB_DEALER>
+		<total_all_sum>84480.0000</total_all_sum>
+		<total_comm_sum>10129.9700</total_comm_sum>
+		<total_after_comm_sum>74350.0300</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>Gharyan</SUB_DEALER>
+		<total_all_sum>55036.0000</total_all_sum>
+		<total_comm_sum>8018.3800</total_comm_sum>
+		<total_after_comm_sum>47017.6200</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>Tajura</SUB_DEALER>
+		<total_all_sum>44101.0000</total_all_sum>
+		<total_comm_sum>6267.0900</total_comm_sum>
+		<total_after_comm_sum>37833.9100</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>western Region</SUB_DEALER>
+		<total_all_sum>43834.0000</total_all_sum>
+		<total_comm_sum>4259.5400</total_comm_sum>
+		<total_after_comm_sum>39574.4600</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>qasr bin ghashir</SUB_DEALER>
+		<total_all_sum>39347.0000</total_all_sum>
+		<total_comm_sum>5630.2900</total_comm_sum>
+		<total_after_comm_sum>33716.7100</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>mamooun</SUB_DEALER>
+		<total_all_sum>33234.0000</total_all_sum>
+		<total_comm_sum>3949.4700</total_comm_sum>
+		<total_after_comm_sum>29284.5300</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>jinzur</SUB_DEALER>
+		<total_all_sum>13517.0000</total_all_sum>
+		<total_comm_sum>1617.3600</total_comm_sum>
+		<total_after_comm_sum>11899.6400</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>ALBADEEL</SUB_DEALER>
+		<total_all_sum>2840.0000</total_all_sum>
+		<total_comm_sum>231.3300</total_comm_sum>
+		<total_after_comm_sum>2608.6700</total_after_comm_sum>
+	</ROW>
+
+	<ROW>
+		<SUB_DEALER>alzintan</SUB_DEALER>
+		<total_all_sum>1232.0000</total_all_sum>
+		<total_comm_sum>203.1500</total_comm_sum>
+		<total_after_comm_sum>1028.8500</total_after_comm_sum>
+	</ROW>
+</DATA>
