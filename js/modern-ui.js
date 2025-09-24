@@ -95,11 +95,11 @@ class ModernUI {
   }
 
   setActiveNavItem() {
-    const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+    const currentPage = decodeURIComponent(window.location.pathname.split('/').pop() || 'index.html');
     const navLinks = this.sidebar.querySelectorAll('.sidebar-nav a');
     
     navLinks.forEach(link => {
-      const href = link.getAttribute('href');
+      const href = decodeURIComponent(link.getAttribute('href'));
       if (href === currentPage) {
         link.classList.add('active');
       }
