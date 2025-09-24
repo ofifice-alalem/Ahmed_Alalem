@@ -29,7 +29,7 @@
       <!-- Page Header -->
       <div class="search-section">
         <h2 class="text-xl font-bold text-primary mb-3">💳 تقرير أنواع الشحن</h2>
-        <p class="text-sm text-muted mb-3">مصوَّغ من بيانات sub_info لضمان الدقة والتفصيل</p>
+        <p class="text-sm text-muted mb-3">بالنسبة لقيمة المعاملة تم احتساب متوسط اختلاف السعر في المعاملة</p>
         <div class="search-row">
           <input id="filter" class="search-input" placeholder="ابحث باسم نوع الشحن..." />
           <div class="text-sm text-gray">عرض <span id="count" class="count-badge">0</span> نوع</div>
@@ -73,6 +73,13 @@
       try {
         // Use the CSV summary JSON
         const data = await fetch('data/summary_by_recharge_type.json').then(r=>r.json());
+        
+        // Sort data by Total descending
+        data.sort((a, b) => {
+          const totalA = parseNumber(getVal(a, ['Total','total_all']) || '0');
+          const totalB = parseNumber(getVal(b, ['Total','total_all']) || '0');
+          return totalB - totalA;
+        });
         
         const table = document.getElementById('tbl');
         const thead = table.querySelector('thead');

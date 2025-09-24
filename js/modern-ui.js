@@ -44,9 +44,7 @@ class ModernUI {
       </div>
       <nav class="sidebar-nav">
         <a href="index.html">الرئيسية</a>
-        <a href="sub.html">التجار الفرعيون</a>
         <a href="recharge.html">أنواع الشحن</a>
-        <a href="كل_عملية_باجمالي_المبيعات.html">كل عملية - باجمالي المبيعات</a>
         <a href="كل_فرع_باجمالي_المبيعات.html">كل فرع - باجمالي المبيعات</a>
       </nav>
     `;

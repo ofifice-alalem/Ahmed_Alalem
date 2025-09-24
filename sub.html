@@ -72,6 +72,13 @@
       try {
         const data = await fetch('data/summary_by_sub_dealer.json').then(r=>r.json());
         
+        // Sort data by Total descending first
+        data.sort((a, b) => {
+          const totalA = parseNumber(getVal(a, ['total_all','Total']) || '0');
+          const totalB = parseNumber(getVal(b, ['total_all','Total']) || '0');
+          return totalB - totalA;
+        });
+        
         // group by sub_dealer
         const grouped = {};
         data.forEach(row => {
